@@ -1,18 +1,11 @@
-<mjml owa="desktop">
-<mj-head>
-  <mj-title>Votre candidature : accusé de réception</mj-title>
-  <mj-breakpoint width="580px" />  
-  <mj-attributes>
-    <mj-section padding="0"/>
-    <mj-column padding="0"/>
-    <mj-text padding="0"/>  
-    <mj-image padding="0"/>
-    <mj-spacer height="1px"/>
-    <mj-all font-family="Avenir, Arial, sans-serif" />
-  </mj-attributes>
-  <mj-include path="global/styles.mjml" />
-</mj-head>
-<mj-body width="600px" background-color="#ECEEF1"> 
-
-</mj-body>
+<mjml>
+  <mj-body>
+    <mj-section>
+      <mj-column>
+        <mj-image width="100px" src="/assets/img/logo-small.png"></mj-image>
+        <mj-divider border-color="#F45E43"></mj-divider>
+        <mj-text font-size="20px" color="#F45E43" font-family="helvetica">Hello Worl d</mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
 </mjml>
