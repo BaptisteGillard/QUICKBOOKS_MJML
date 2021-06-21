@@ -1,0 +1,12 @@
+<!-- START HEADER  -->
+<mj-section background-color="#ECEEF1" vertical-align="middle">
+        <mj-column padding="20px 0" width="50%"  vertical-align="middle">
+                <mj-image align="left" width="150px" src="https://quickbooks.intuit.com/cmc-emails/shared/qb-logo-new_retina.png" />
+        </mj-column>
+        <mj-column width="50%" vertical-align="middle" align="right">
+                <mj-text align="right" font-size="14px">
+                    <a style="color:#0075cd; text-decoration: underline;" href="">Se connecter</a>
+                </mj-text>
+        </mj-column>
+</mj-section>
+<!-- END HEADER -->

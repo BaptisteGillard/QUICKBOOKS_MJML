@@ -1,0 +1,9 @@
+<mj-style inline="inline">
+.primary_header>div{
+    padding-bottom:20px;
+}
+
+.primary_p>div{
+    padding-bottom:20px;
+}
+</mj-style>

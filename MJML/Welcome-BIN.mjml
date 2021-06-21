@@ -1,11 +1,39 @@
-<mjml>
-  <mj-body>
-    <mj-section>
-      <mj-column>
-        <mj-image width="100px" src="/assets/img/logo-small.png"></mj-image>
-        <mj-divider border-color="#F45E43"></mj-divider>
-        <mj-text font-size="20px" color="#F45E43" font-family="helvetica">Hello Worl d</mj-text>
+<mjml owa="desktop">
+<mj-head>
+  <mj-title>Bienvenue chez QuickBooks 🎉</mj-title>
+  <mj-preview>On vous aide à bien démarrer</mj-preview>
+  <mj-breakpoint width="580px" />  
+  <mj-attributes>
+    <mj-section padding="0"/>
+    <mj-column padding="0"/>
+    <mj-text padding="0"/>  
+    <mj-image padding="0"/>
+    <mj-spacer height="1px"/>
+    <mj-all font-family="Avenir, Arial, sans-serif" />
+  </mj-attributes>
+  <mj-include path="global/style.mjml" />
+  <mj-include path="global/style_inline.mjml" />
+</mj-head>
+<mj-body width="600px" background-color="#ECEEF1"> 
+  <mj-include path="global/headers/se_connecter.mjml" />
+  <!-- START PRIMARY SECTION -->
+  <mj-wrapper background-color="#fff" padding="40px" border-radius="10px 10px 0 0">
+    <mj-section direction="rtl">
+      <mj-column width="40%" vertical-align="middle">
+        <mj-image src="https://quickbooks.intuit.com/cmc-emails/shared/bolt/lifestyle-illustrations/person-2.png" width="125px" />
+      </mj-column>
+      <mj-column width="60%" vertical-align="middle">
+        <mj-text font-size="36px" line-height="40px" font-weight="bold" color="#393a3d" css-class="primary_header">
+          Maîtrisez les incontournables
+        </mj-text>
+        <mj-text font-size="19px" line-height="24px" color="#393a3d" css-class="primary_p">
+        Merci d'avoir choisi QuickBooks ! Profitez de notre webinaire gratuit pour accélérer votre prise en main et exploiter tout le potentiel des fonctionnalités à votre disposition.
+        </mj-text>
+        <mj-button background-color="#2ca01c" inner-padding="9px 24px" border-radius="18px" align="left" height="36px" padding="0" font-size="16px" font-weight="600">
+          Je m'inscris
+        </mj-button>
       </mj-column>
     </mj-section>
-  </mj-body>
-</mjml>
+  </mj-wrapper>
+  <!-- END PRIMARY SECTION -->
+</mj-body>
