@@ -21,4 +21,18 @@
   font-weight: bold;
   font-style: normal;
 }
+
+
+
+
+
+.hide_on_mobile { display: none !important;}
+@media only screen and (min-width: 480px) { 
+  .hide_on_mobile { display: inline-block !important;} 
+  .pr_20 {padding-right:20px !important;}
+}
+
+@media only screen and (max-width: 480px) { 
+  .center{text-align:left !important;}
+}
 </mj-style>
