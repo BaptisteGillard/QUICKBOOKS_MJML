@@ -8,7 +8,6 @@
     <mj-column padding="0"/>
     <mj-text padding="0"/>  
     <mj-image padding="0"/>
-    <mj-spacer height="1px"/>
     <mj-all font-family="Avenir, Arial, sans-serif" />
   </mj-attributes>
   <mj-include path="global/style.mjml" />
@@ -149,8 +148,11 @@
     </mj-section>
     <!-- END DIVIDER -->
   </mj-wrapper>
- 
-  <mj-spacer height="20px" />
+ <mj-section>
+ <mj-column>
+  <mj-spacer height="20px" /> 
+  </mj-column>
+  </mj-section>
 <!-- START SECONDARY SECTION 3 -->
   <mj-wrapper background-color="#fff" padding="40px 20px" border-radius="10px" css-class="container_wrap2">
      <!-- START TITLE SECONDARY SECTION 3 -->

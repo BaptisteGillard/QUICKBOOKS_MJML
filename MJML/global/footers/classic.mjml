@@ -50,7 +50,7 @@
     <mj-section>
         <mj-column padding-top="16px">
             <mj-text font-size="12px" line-height="16px" color="#6B6C72" font-weight="400">
-                <a href="https://quickbooks.intuit.com/fr/securite/" style="color:#0077c5">Sécurité</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.intuit.com/privacy/statement/fr/" style="color:#0077c5">Déclaration de confidentialité</a>
+                <a href="https://quickbooks.intuit.com/fr/securite/" style="color:#0077c5">Sécurité</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.intuit.com/privacy/statement/fr/" style="color:#0077c5">Déclaration de confidentialité</a>
             </mj-text>
         </mj-column>
     </mj-section>
