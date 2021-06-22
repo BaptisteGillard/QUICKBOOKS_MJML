@@ -34,5 +34,14 @@
 
 @media only screen and (max-width: 480px) { 
   .center{text-align:left !important;}
+  .center img{padding-bottom:20px !important;}
 }
+@media only screen and (max-width: 600px) { 
+  .social>table>tbody>tr>td{text-align:left !important;}
+  .border>table>tbody>tr>td{border:none !important;padding-left:0!important}
+  .container{padding-left:40px !important;padding-right:40px !important;}
+  .primary-img{padding-bottom:20px !important}
+  .primary-img>table>tbody>tr>td{width:100px !important;}
+}
+
 </mj-style>

@@ -1,5 +1,5 @@
 <!-- START HEADER  -->
-<mj-section background-color="#ECEEF1" vertical-align="middle">
+<mj-section background-color="#ECEEF1" vertical-align="middle" css-class="container">
         <mj-column padding="20px 0" width="50%"  vertical-align="middle">
                 <mj-image align="left" width="150px" src="https://quickbooks.intuit.com/cmc-emails/shared/qb-logo-new_retina.png" />
         </mj-column>

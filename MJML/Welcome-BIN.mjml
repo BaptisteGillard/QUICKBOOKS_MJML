@@ -21,7 +21,7 @@
     <!-- START PRIMARY SECTION -->
     <mj-section direction="rtl" padding="40px 0">
       <mj-column width="40%" vertical-align="middle">
-        <mj-image src="https://quickbooks.intuit.com/cmc-emails/shared/bolt/lifestyle-illustrations/person-2.png" width="125px" />
+        <mj-image src="https://quickbooks.intuit.com/cmc-emails/shared/bolt/lifestyle-illustrations/person-2.png" width="125px" css-class="primary-img"/>
       </mj-column>
       <mj-column width="60%" vertical-align="middle">
         <mj-text font-size="36px" line-height="40px" font-weight="bold" color="#393a3d" css-class="primary_header">
@@ -30,7 +30,7 @@
         <mj-text font-size="19px" line-height="24px" color="#393a3d" css-class="primary_p">
         Merci d'avoir choisi QuickBooks ! Profitez de notre webinaire gratuit pour accélérer votre prise en main et exploiter tout le potentiel des fonctionnalités à votre disposition.
         </mj-text>
-        <mj-button background-color="#2ca01c" inner-padding="9px 24px" border-radius="18px" align="left" height="36px" padding="0" font-size="16px" font-weight="600">
+        <mj-button background-color="#2ca01c" href="https://register.gotowebinar.com/rt/545054716298803725?source=ftu" inner-padding="9px 24px" border-radius="18px" align="left" height="36px" padding="0" font-size="16px" font-weight="600">
           Je m'inscris
         </mj-button>
       </mj-column>
@@ -149,7 +149,7 @@
   </mj-wrapper>
  
   <mj-spacer height="20px" />
-
+<!-- START SECONDARY SECTION 3 -->
   <mj-wrapper background-color="#fff" padding="40px" border-radius="10px">
      <!-- START TITLE SECONDARY SECTION 3 -->
     <mj-section padding="0px 0 0 0">
@@ -191,5 +191,8 @@
     </mj-section>
     <!-- END CONTENT SECONDARY SECTION 3 // LINE 2 -->
   </mj-wrapper>
+  <!-- END SECONDARY SECTION 3 -->
+
+  <mj-include path="global/footers/classic.mjml" />
   
 </mj-body>
