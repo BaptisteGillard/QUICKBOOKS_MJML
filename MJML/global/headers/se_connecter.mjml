@@ -5,7 +5,7 @@
         </mj-column>
         <mj-column width="50%" vertical-align="middle" align="right" css-class="hide_on_mobile">
                 <mj-text align="right" font-size="14px">
-                    <a style="color:#0075cd; text-decoration: underline;" href="">Se connecter</a>
+                    <a style="color:#0075cd; text-decoration: underline;" href="https://app.qbo.intuit.com/app/homepage">Se connecter</a>
                 </mj-text>
         </mj-column>
 </mj-section>

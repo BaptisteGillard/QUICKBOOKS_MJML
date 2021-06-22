@@ -17,17 +17,17 @@
 <mj-body width="600px" background-color="#ECEEF1"> 
   <mj-include path="global/headers/se_connecter.mjml" />
   
-  <mj-wrapper background-color="#fff" padding="0 40px 40px 40px" border-radius="10px">
+  <mj-wrapper background-color="#fff" padding="0 20px 40px 20px" border-radius="10px" css-class="container_wrap">
     <!-- START PRIMARY SECTION -->
     <mj-section direction="rtl" padding="40px 0">
       <mj-column width="40%" vertical-align="middle">
         <mj-image src="https://quickbooks.intuit.com/cmc-emails/shared/bolt/lifestyle-illustrations/person-2.png" width="125px" css-class="primary-img"/>
       </mj-column>
       <mj-column width="60%" vertical-align="middle">
-        <mj-text font-size="36px" line-height="40px" font-weight="bold" color="#393a3d" css-class="primary_header">
+        <mj-text font-size="36px" line-height="40px" font-weight="bold" color="#393a3d" padding-bottom="20px">
           Maîtrisez les incontournables
         </mj-text>
-        <mj-text font-size="19px" line-height="24px" color="#393a3d" css-class="primary_p">
+        <mj-text font-size="19px" line-height="24px" color="#393a3d" padding-bottom="20px">
         Merci d'avoir choisi QuickBooks ! Profitez de notre webinaire gratuit pour accélérer votre prise en main et exploiter tout le potentiel des fonctionnalités à votre disposition.
         </mj-text>
         <mj-button background-color="#2ca01c" href="https://register.gotowebinar.com/rt/545054716298803725?source=ftu" inner-padding="9px 24px" border-radius="18px" align="left" height="36px" padding="0" font-size="16px" font-weight="600">
@@ -46,7 +46,7 @@
      <!-- START TITLE SECONDARY SECTION 1 -->
     <mj-section padding="40px 0 0 0">
       <mj-column >
-        <mj-text font-size="24px" line-height="28px" color="#393a3d" font-weight="600" css-class="secondary_header">
+        <mj-text font-size="24px" line-height="28px" color="#393a3d" font-weight="600" padding-bottom="20px">
           QuickBooks, votre allé comptabilité
         </mj-text>
       </mj-column>
@@ -56,9 +56,11 @@
     <mj-section padding="0 0 40px 0">
     <mj-group>
         <mj-column width="85%" vertical-align="middle">
-          <mj-text font-size="16px" line-height="20px" color="#393a3d" font-weight="400">
+          <mj-text font-size="16px" line-height="20px" color="#393a3d" font-weight="400" padding-bottom="3px">
             <a href="https://www.youtube.com/watch?v%3DkoDi54pVVwg%26t%3D11s&sa=D&source=editors&ust=1620379833016000&usg=AFQjCNElbXuZaWT71T-WJRAJ8rmkICNYFw" style="color: #0077c5;text-decoration: underline;">Présentation de QuickBooks</a>
-            <div>Tour d'horizon en 1:30 minute chrono</div>
+          </mj-text>
+           <mj-text font-size="16px" line-height="20px" color="#393a3d" font-weight="400" >
+           Tour d'horizon en 1:30 minute chrono
           </mj-text>
         </mj-column>
         <mj-column width="15%" vertical-align="middle">
@@ -77,7 +79,7 @@
      <!-- START TITLE SECONDARY SECTION 2 -->
     <mj-section padding="40px 0 0 0">
       <mj-column >
-        <mj-text font-size="24px" line-height="28px" color="#393a3d" font-weight="600" css-class="secondary_header">
+        <mj-text font-size="24px" line-height="28px" color="#393a3d" font-weight="600" padding-bottom="20px">
           Les clés pour bien démarrer
         </mj-text>
       </mj-column>
@@ -150,7 +152,7 @@
  
   <mj-spacer height="20px" />
 <!-- START SECONDARY SECTION 3 -->
-  <mj-wrapper background-color="#fff" padding="40px" border-radius="10px">
+  <mj-wrapper background-color="#fff" padding="40px 20px" border-radius="10px" css-class="container_wrap2">
      <!-- START TITLE SECONDARY SECTION 3 -->
     <mj-section padding="0px 0 0 0">
       <mj-column>
@@ -166,7 +168,7 @@
         <mj-image src="https://quickbooks.intuit.com/cmc-emails/template-examples/v3.0/SM-02_example-1.png" width="58px" css-class="pr_20 center"/>
       </mj-column>
       <mj-column width="80%" vertical-align="middle">
-        <mj-text font-size="16px" line-height="20px" color="#393a3d" font-weight="600" css-class="third_header">
+        <mj-text font-size="16px" line-height="20px" color="#393a3d" font-weight="600" padding-bottom="8px">
           Communauté d'utilisateurs
         </mj-text>
         <mj-text font-size="16px" line-height="20px" color="#393a3d" font-weight="400">
@@ -181,7 +183,7 @@
         <mj-image src="https://quickbooks.intuit.com/cmc-emails/template-examples/v3.0/SM-02_example-3.png" width="58px" css-class="pr_20 center"/>
       </mj-column>
       <mj-column width="80%" vertical-align="middle">
-        <mj-text font-size="16px" line-height="20px" color="#393a3d" font-weight="600" css-class="third_header">
+        <mj-text font-size="16px" line-height="20px" color="#393a3d" font-weight="600" padding-bottom="8px">
           Support client
         </mj-text>
         <mj-text font-size="16px" line-height="20px" color="#393a3d" font-weight="400">

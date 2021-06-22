@@ -1,7 +1,7 @@
 <!-- START FOOTER -->
 <mj-wrapper css-class="container">
     <!-- START ONLINE VERSION -->
-    <mj-section>
+    <mj-section padding-bottom="6px">
         <mj-column>
             <mj-text>
                 <a href="#" style="color: #0077C5;">Visualiser en ligne</a>
@@ -10,9 +10,9 @@
     </mj-section>
     <!-- END ONLINE VERSION -->
     <!-- START SOCIAL + DOWNLOAD APP -->
-    <mj-section css-class="social">
+    <mj-section css-class="social" >
         <mj-column width="180px" vertical-align="middle" >
-            <mj-social font-size="15px" icon-size="30px" mode="horizontal" align="left" padding-left="0" padding-top="20px" padding-bottom="20px" padding-right="0px" inner-padding="0px 15px 0px 0px">
+            <mj-social font-size="15px" icon-size="30px" mode="horizontal" align="left" padding-left="0" padding-top="10px" padding-bottom="10px" padding-right="0px" inner-padding="0px 15px 0px 0px">
                 <mj-social-element name="" src="https://quickbooks.intuit.com/cmc-emails/shared/bolt/social/facebook.png" href="https://www.facebook.com/QuickBooksEntrepreneurs" >
                     
                 </mj-social-element>
@@ -27,17 +27,21 @@
                 </mj-social-element>
             </mj-social>
         </mj-column>
-        <mj-column css-class="border" width="420px" vertical-align="middle" border-left="1px solid #babec5" padding-left="17px" padding-bottom="16px">
+        <mj-column css-class="border" width="420px" vertical-align="middle" border-left="1px solid #babec5" padding-left="17px" >
             <mj-text>
-                <img src="https://quickbooks.intuit.com/cmc-emails/shared/bolt/social/apple-badge.png" href="https://apps.apple.com/fr/app/quickbooks/id584606479" style="display:inline-block;height:29px" />
-                <img src="https://quickbooks.intuit.com/cmc-emails/shared/bolt/social/google-badge.png" href="https://play.google.com/store/apps/details?id=com.intuit.quickbooks&hl=en" style="display:inline-block;height:29px;padding-left:16px" />
-
+                <a href="https://apps.apple.com/fr/app/quickbooks/id584606479" style="text-decoration:none;">
+                    <img height="29" width="90" src="https://quickbooks.intuit.com/cmc-emails/shared/bolt/social/apple-badge.png" style="display:inline-block;height:29px !important;width:90px!important;" />
+                </a>
+                &nbsp;&nbsp;&nbsp;&nbsp;
+                <a href="https://play.google.com/store/apps/details?id=com.intuit.quickbooks&hl=en" style="text-decoration:none;">
+                    <img height="29" width="96" src="https://quickbooks.intuit.com/cmc-emails/shared/bolt/social/google-badge.png"  style="display:inline-block;height:29px !important;width:96px !important" />
+                </a>
             </mj-text>
         </mj-column>
     </mj-section>
     <!-- END SOCIAL + DOWNLOAD APP -->
     <mj-section>
-        <mj-column>
+        <mj-column padding-top="16px">
             <mj-text font-size="12px" line-height="16px" color="#6B6C72" font-weight="400">
                 Ce message a été envoyé à {{email}}, conformément à vos préférences relatives aux e-mails. Si vous avez choisi de ne pas recevoir de messages à caractère marketing, vous continuerez à recevoir les communications requises par la loi ou concernant votre produit ou compte. 
             </mj-text>

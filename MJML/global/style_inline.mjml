@@ -1,18 +1,4 @@
 <mj-style inline="inline">
-.primary_header>div{
-    padding-bottom:20px;
-}
 
-.primary_p>div{
-    padding-bottom:20px;
-}
 
-.secondary_header>div{
-    padding-bottom:20px;
-    
-}
-.third_header>div{
-    padding-bottom:8px;
-    
-}
 </mj-style>

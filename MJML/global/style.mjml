@@ -30,6 +30,9 @@
 @media only screen and (min-width: 480px) { 
   .hide_on_mobile { display: inline-block !important;} 
   .pr_20 {padding-right:20px !important;}
+  .container_wrap>table>tbody>tr>td{ padding:0 40px 40px 40px !important}
+  .container_wrap2>table>tbody>tr>td{ padding:40px 40px 40px 40px !important}
+  .container{padding-left:40px !important;padding-right:40px !important;}
 }
 
 @media only screen and (max-width: 480px) { 
@@ -37,11 +40,13 @@
   .center img{padding-bottom:20px !important;}
 }
 @media only screen and (max-width: 600px) { 
-  .social>table>tbody>tr>td{text-align:left !important;}
-  .border>table>tbody>tr>td{border:none !important;padding-left:0!important}
-  .container{padding-left:40px !important;padding-right:40px !important;}
+
+  .container{padding-left:20px !important;padding-right:20px !important;}
   .primary-img{padding-bottom:20px !important}
   .primary-img>table>tbody>tr>td{width:100px !important;}
 }
-
+@media only screen and (max-width: 690px) { 
+.social>table>tbody>tr>td{text-align:left !important;}
+.border>table>tbody>tr>td{border:none !important;padding-left:0!important}
+}
 </mj-style>
