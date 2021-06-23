@@ -106,7 +106,7 @@
     </mj-section>
     <!-- END DIVIDER -->
     <!-- START SECONDARY SECTION 2 // Line 2 -->
-    <mj-section padding="6px 0 8px 0">
+    <mj-section padding="10px 0 12px 0">
       <mj-group>
         <mj-column width="85%" vertical-align="middle">
           <mj-text font-size="16px" line-height="20px" color="#393a3d" font-weight="400">
@@ -127,7 +127,7 @@
     </mj-section>
     <!-- END DIVIDER -->
      <!-- START SECONDARY SECTION 2 // Line 3 -->
-    <mj-section padding="6px 0 8px 0">
+    <mj-section padding="10px 0 12px 0">
       <mj-group>
         <mj-column width="85%" vertical-align="middle">
           <mj-text font-size="16px" line-height="20px" color="#393a3d" font-weight="400">
