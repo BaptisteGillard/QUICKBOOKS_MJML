@@ -93,7 +93,7 @@
           </mj-text>
         </mj-column>
         <mj-column width="15%" vertical-align="middle">
-          <mj-image src="https://quickbooks.intuit.com/cmc-emails/shared/list-arrow.png" width="25px" align="right"/>
+          <mj-image src="https://quickbooks.intuit.com/cmc-emails/shared/list-arrow.png" href="https://quickbooks.intuit.com/learn-support/fr-fr/small-business-processes/d%C3%A9finition-de-termes-comptables-courants/01/537450" width="25px" align="right"/>
         </mj-column>
       </mj-group>
     </mj-section>
@@ -114,7 +114,7 @@
           </mj-text>
         </mj-column>
         <mj-column width="15%" vertical-align="middle">
-          <mj-image src="https://quickbooks.intuit.com/cmc-emails/shared/list-arrow.png" width="25px" align="right"/>
+          <mj-image src="https://quickbooks.intuit.com/cmc-emails/shared/list-arrow.png" href="https://quickbooks.intuit.com/learn-support/fr-fr/gestion-des-clients-et-ventes/quelle-est-la-diff%C3%A9rence-entre-une-facture-un-re%C3%A7u-de-vente-une/01/536935" width="25px" align="right"/>
         </mj-column>
       </mj-group>
     </mj-section>
@@ -135,7 +135,7 @@
           </mj-text>
         </mj-column>
         <mj-column width="15%" vertical-align="middle">
-          <mj-image src="https://quickbooks.intuit.com/cmc-emails/shared/list-arrow.png" width="25px" align="right"/>
+          <mj-image src="https://quickbooks.intuit.com/cmc-emails/shared/list-arrow.png" href="https://quickbooks.intuit.com/learn-support/fr-fr/customise-forms/comment-personnaliser-vos-factures-devis-et-re%C3%A7us-de-vente/01/537185" width="25px" align="right"/>
         </mj-column>
       </mj-group>
     </mj-section>
@@ -156,7 +156,7 @@
           </mj-text>
         </mj-column>
         <mj-column width="15%" vertical-align="middle">
-          <mj-image src="https://quickbooks.intuit.com/cmc-emails/shared/list-arrow.png" width="25px" align="right"/>
+          <mj-image src="https://quickbooks.intuit.com/cmc-emails/shared/list-arrow.png" href="https://quickbooks.intuit.com/learn-support/fr-fr/accounts-receivable-reports/comment-configurer-la-tva/01/536871" width="25px" align="right"/>
         </mj-column>
       </mj-group>
     </mj-section>
