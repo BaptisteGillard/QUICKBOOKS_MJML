@@ -85,7 +85,7 @@
     </mj-section>
     <!-- END TITLE SECONDARY SECTION 2 -->
     <!-- START SECONDARY SECTION 2 // Line 1 -->
-    <mj-section padding="0px 0px 8px 0">
+    <mj-section padding="0px 0px 12px 0">
       <mj-group>
         <mj-column width="85%" vertical-align="middle">
           <mj-text font-size="16px" line-height="20px" color="#393a3d" font-weight="400">

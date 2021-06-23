@@ -1,7 +1,7 @@
 <mjml owa="desktop">
 <mj-head>
-  <mj-title>🙌  Votre mois d'essai démarre, bienvenue chez QuickBooks !</mj-title>
-  <mj-preview>On vous aide à bien démarrer</mj-preview>
+  <mj-title>Rapprochement bancaire : le guide</mj-title>
+  <mj-preview>Réconciliez vos opérations avec fiabilité.</mj-preview>
   <!-- <mj-breakpoint width="580px" />   -->
   <mj-attributes>
     <mj-section padding="0"/>
@@ -18,56 +18,22 @@
   
   <mj-wrapper background-color="#fff" padding="0 20px 40px 20px" border-radius="10px" css-class="container_wrap">
     <!-- START PRIMARY SECTION -->
-    <mj-section direction="rtl" padding="40px 0">
-      <mj-column width="40%" vertical-align="middle">
-        <mj-image src="https://quickbooks.intuit.com/cmc-emails/shared/bolt/lifestyle-illustrations/person-2.png" width="125px" css-class="primary-img"/>
-      </mj-column>
-      <mj-column width="60%" vertical-align="middle">
-        <mj-text font-size="36px" line-height="40px" font-weight="bold" color="#393a3d" padding-bottom="20px">
-          Maîtrisez les incontournables
+    <mj-section padding="40px 0">
+      <mj-column vertical-align="middle" >
+        <mj-text font-size="36px" line-height="40px" font-weight="bold" color="#393a3d" padding-bottom="20px" align="center">
+          Vos opérations bancaires à la loupe
         </mj-text>
-        <mj-text font-size="19px" line-height="24px" color="#393a3d" padding-bottom="20px">
-        Merci d'avoir choisi QuickBooks ! <br><br>Tirez parti de votre mois d'essai en assistant à la formation gratuite dédiée aux nouveaux utilisateurs.
+        <mj-text font-size="19px" line-height="24px" color="#393a3d" padding-bottom="20px" align="center">
+Le rapprochement bancaire consiste à faire correspondre chaque opération enregistrée dans QuickBooks à celles figurant sur votre relevé bancaire. 
+Nous vous conseillons de rapprocher vos opérations au moins une fois par mois pour avoir une comptabilité à jour tout au long de l'année. 
         </mj-text>
-        <mj-button background-color="#2ca01c" href="https://register.gotowebinar.com/rt/545054716298803725?source=ftu" inner-padding="9px 24px" border-radius="18px" align="left" height="36px" padding="0" font-size="16px" font-weight="600">
-          Je m'inscris
+        <mj-button background-color="#2ca01c" href="https://c35.qbo.intuit.com/qbo35/login?pagereq=expenses" inner-padding="9px 24px" border-radius="18px" align="center" height="36px" padding="0" font-size="16px" font-weight="600">
+          Comparer les opérations
         </mj-button>
+        <mj-image src="http://images.eq.intuit.com/EloquaImages/clients/IntuitSBG/%7B8a492b82-e3d1-44af-86bd-d514923c81b1%7D_img-depenses-qbo.png" align="center" padding-top="40px"/>
       </mj-column>
     </mj-section>
     <!-- END PRIMARY SECTION -->
-    <!-- START DIVIDER -->
-    <mj-section>
-      <mj-column>
-        <mj-divider border-width="1px" border-style="solid" border-color="#babec5" padding="0" />
-      </mj-column>
-    </mj-section>
-    <!-- END DIVIDER -->
-     <!-- START TITLE SECONDARY SECTION 1 -->
-    <mj-section padding="40px 0 0 0">
-      <mj-column >
-        <mj-text font-size="24px" line-height="28px" color="#393a3d" font-weight="600" padding-bottom="20px">
-          QuickBooks, votre allé comptabilité
-        </mj-text>
-      </mj-column>
-    </mj-section>
-    <!-- END TITLE SECONDARY SECTION 1 -->
-    <!-- START CONTENT SECONDARY SECTION 1 -->
-    <mj-section padding="0 0 40px 0">
-    <mj-group>
-        <mj-column width="85%" vertical-align="middle">
-          <mj-text font-size="16px" line-height="20px" color="#393a3d" font-weight="400" padding-bottom="3px">
-            <a href="https://www.youtube.com/watch?v%3DkoDi54pVVwg%26t%3D11s&sa=D&source=editors&ust=1620379833016000&usg=AFQjCNElbXuZaWT71T-WJRAJ8rmkICNYFw" style="color: #0077c5;text-decoration: underline;">Présentation de QuickBooks</a>
-          </mj-text>
-           <mj-text font-size="16px" line-height="20px" color="#393a3d" font-weight="400" >
-           Tout QuickBooks en 1:30 minute chrono
-          </mj-text>
-        </mj-column>
-        <mj-column width="15%" vertical-align="middle">
-          <mj-image src="https://quickbooks.intuit.com/cmc-emails/shared/list-arrow.png" width="25px" align="right"/>
-        </mj-column>
-      </mj-group>
-    </mj-section>
-    <!-- END CONTENT SECONDARY SECTION 1 -->
     <!-- START DIVIDER -->
     <mj-section>
       <mj-column>
@@ -75,29 +41,29 @@
       </mj-column>
     </mj-section>
     <!-- END DIVIDER -->
-     <!-- START TITLE SECONDARY SECTION 2 -->
+     <!-- START TITLE SECONDARY -->
     <mj-section padding="40px 0 0 0">
       <mj-column >
         <mj-text font-size="24px" line-height="28px" color="#393a3d" font-weight="600" padding-bottom="20px">
-          Les clés pour bien démarrer
+          Pour aller plus loin
         </mj-text>
       </mj-column>
     </mj-section>
-    <!-- END TITLE SECONDARY SECTION 2 -->
-    <!-- START SECONDARY SECTION 2 // Line 1 -->
+    <!-- END TITLE SECONDARY -->
+    <!-- START SECONDARY // Line 1 -->
     <mj-section padding="0px 0px 12px 0">
       <mj-group>
         <mj-column width="85%" vertical-align="middle">
           <mj-text font-size="16px" line-height="20px" color="#393a3d" font-weight="400">
-            <a href="https://quickbooks.intuit.com/learn-support/fr-fr/small-business-processes/d%C3%A9finition-de-termes-comptables-courants/01/537450" style="color: #0077c5;text-decoration: underline;">Les bases de la comptabilité</a>
+            <a href="https://quickbooks.intuit.com/learn-support/fr-fr/statement-reconciliation/comment-faire-un-rapprochement-bancaire-dans-quickbooks/00/537097" style="color: #0077c5;text-decoration: underline;">Pas à pas pour faire un rapprochement dans QuickBooks</a>
           </mj-text>
         </mj-column>
         <mj-column width="15%" vertical-align="middle">
-          <mj-image src="https://quickbooks.intuit.com/cmc-emails/shared/list-arrow.png" href="https://quickbooks.intuit.com/learn-support/fr-fr/small-business-processes/d%C3%A9finition-de-termes-comptables-courants/01/537450" width="25px" align="right"/>
+          <mj-image src="https://quickbooks.intuit.com/cmc-emails/shared/list-arrow.png" href="https://quickbooks.intuit.com/learn-support/fr-fr/statement-reconciliation/comment-faire-un-rapprochement-bancaire-dans-quickbooks/00/537097" width="25px" align="right"/>
         </mj-column>
       </mj-group>
     </mj-section>
-    <!-- END CONTENT SECONDARY SECTION 2 // Line 1 -->
+    <!-- END CONTENT SECONDARY // Line 1 -->
     <!-- START DIVIDER -->
     <mj-section>
       <mj-column>
@@ -105,20 +71,20 @@
       </mj-column>
     </mj-section>
     <!-- END DIVIDER -->
-    <!-- START SECONDARY SECTION 2 // Line 2 -->
+    <!-- START SECONDARY // Line 2 -->
     <mj-section padding="10px 0 12px 0">
       <mj-group>
         <mj-column width="85%" vertical-align="middle">
           <mj-text font-size="16px" line-height="20px" color="#393a3d" font-weight="400">
-            <a href="https://quickbooks.intuit.com/learn-support/fr-fr/gestion-des-clients-et-ventes/quelle-est-la-diff%C3%A9rence-entre-une-facture-un-re%C3%A7u-de-vente-une/01/536935" style="color: #0077c5;text-decoration: underline;">Le b.a-ba de la facturation </a>
+            <a href="https://quickbooks.intuit.com/learn-support/fr-fr/autres-articles/conseils-pour-%C3%A9viter-l-annulation-d-un-rapprochement/00/536980" style="color: #0077c5;text-decoration: underline;">Conseils pour éviter l'annulation d'un rapprochement</a>
           </mj-text>
         </mj-column>
         <mj-column width="15%" vertical-align="middle">
-          <mj-image src="https://quickbooks.intuit.com/cmc-emails/shared/list-arrow.png" href="https://quickbooks.intuit.com/learn-support/fr-fr/gestion-des-clients-et-ventes/quelle-est-la-diff%C3%A9rence-entre-une-facture-un-re%C3%A7u-de-vente-une/01/536935" width="25px" align="right"/>
+          <mj-image src="https://quickbooks.intuit.com/cmc-emails/shared/list-arrow.png" href="https://quickbooks.intuit.com/learn-support/fr-fr/autres-articles/conseils-pour-%C3%A9viter-l-annulation-d-un-rapprochement/00/536980" width="25px" align="right"/>
         </mj-column>
       </mj-group>
     </mj-section>
-    <!-- END CONTENT SECONDARY SECTION 2 // Line 2 -->
+    <!-- END CONTENT SECONDARY // Line 2 -->
     <!-- START DIVIDER -->
     <mj-section>
       <mj-column>
@@ -126,20 +92,20 @@
       </mj-column>
     </mj-section>
     <!-- END DIVIDER -->
-     <!-- START SECONDARY SECTION 2 // Line 3 -->
+    <!-- START SECONDARY // Line 3 -->
     <mj-section padding="10px 0 12px 0">
       <mj-group>
         <mj-column width="85%" vertical-align="middle">
           <mj-text font-size="16px" line-height="20px" color="#393a3d" font-weight="400">
-            <a href="https://quickbooks.intuit.com/learn-support/fr-fr/customise-forms/comment-personnaliser-vos-factures-devis-et-re%C3%A7us-de-vente/01/537185" style="color: #0077c5;text-decoration: underline;">Personnalisation de vos devis et factures</a>
+            <a href="https://quickbooks.intuit.com/learn-support/fr-fr/reconciliation-reports/d%C3%A9couvrez-le-processus-de-rapprochement-dans-quickbooks/01/537448#M69" style="color: #0077c5;text-decoration: underline;">Résoudre un écart de rapprochement</a>
           </mj-text>
         </mj-column>
         <mj-column width="15%" vertical-align="middle">
-          <mj-image src="https://quickbooks.intuit.com/cmc-emails/shared/list-arrow.png" href="https://quickbooks.intuit.com/learn-support/fr-fr/customise-forms/comment-personnaliser-vos-factures-devis-et-re%C3%A7us-de-vente/01/537185" width="25px" align="right"/>
+          <mj-image src="https://quickbooks.intuit.com/cmc-emails/shared/list-arrow.png" href="https://quickbooks.intuit.com/learn-support/fr-fr/reconciliation-reports/d%C3%A9couvrez-le-processus-de-rapprochement-dans-quickbooks/01/537448#M69" width="25px" align="right"/>
         </mj-column>
       </mj-group>
     </mj-section>
-    <!-- END CONTENT SECONDARY SECTION 2 // Line 3 -->
+    <!-- END CONTENT SECONDARY // Line 3 -->
     <!-- START DIVIDER -->
     <mj-section>
       <mj-column>
@@ -147,27 +113,7 @@
       </mj-column>
     </mj-section>
     <!-- END DIVIDER -->
-     <!-- START SECONDARY SECTION 2 // Line 4 -->
-    <mj-section padding="10px 0 12px 0">
-      <mj-group>
-        <mj-column width="85%" vertical-align="middle">
-          <mj-text font-size="16px" line-height="20px" color="#393a3d" font-weight="400">
-            <a href="https://quickbooks.intuit.com/learn-support/fr-fr/accounts-receivable-reports/comment-configurer-la-tva/01/536871" style="color: #0077c5;text-decoration: underline;">Le paramétrage de la TVA </a>
-          </mj-text>
-        </mj-column>
-        <mj-column width="15%" vertical-align="middle">
-          <mj-image src="https://quickbooks.intuit.com/cmc-emails/shared/list-arrow.png" href="https://quickbooks.intuit.com/learn-support/fr-fr/accounts-receivable-reports/comment-configurer-la-tva/01/536871" width="25px" align="right"/>
-        </mj-column>
-      </mj-group>
-    </mj-section>
-    <!-- END CONTENT SECONDARY SECTION 2 // Line 4 -->
-    <!-- START DIVIDER -->
-    <mj-section>
-      <mj-column>
-        <mj-divider border-width="1px" border-style="solid" border-color="#babec5" padding="0" />
-      </mj-column>
-    </mj-section>
-    <!-- END DIVIDER -->
+    
   </mj-wrapper>
  <mj-section>
  <mj-column>
