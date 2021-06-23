@@ -1,7 +1,7 @@
 <mjml owa="desktop">
 <mj-head>
-  <mj-title>Bienvenue chez QuickBooks 🎉</mj-title>
-  <mj-preview>On vous aide à bien démarrer</mj-preview>
+  <mj-title>Formation gratuite QuickBooks</mj-title>
+  <mj-preview>Sessions toutes les semaines, réservez votre place. </mj-preview>
   <!-- <mj-breakpoint width="580px" />   -->
   <mj-attributes>
     <mj-section padding="0"/>
@@ -19,16 +19,19 @@
   <mj-wrapper background-color="#fff" padding="0 20px 40px 20px" border-radius="10px" css-class="container_wrap">
     <!-- START PRIMARY SECTION -->
     <mj-section direction="rtl" padding="40px 0">
-      <mj-column width="40%" vertical-align="middle">
-        <mj-image src="https://quickbooks.intuit.com/cmc-emails/shared/bolt/lifestyle-illustrations/person-2.png" width="125px" css-class="primary-img"/>
+      <mj-column width="40%" vertical-align="middle" css-class="pr_40" padding-left="40px">
+        <mj-image src="https://quickbooks.intuit.com/cmc-emails/44289/44289_primary-4.png" />
       </mj-column>
-      <mj-column width="60%" vertical-align="middle">
+      <mj-column width="60%" vertical-align="middle" >
         <mj-text font-size="36px" line-height="40px" font-weight="bold" color="#393a3d" padding-bottom="20px">
-          Maîtrisez les incontournables
+          Maîtrisez les incontournables, étape par étape
         </mj-text>
         <mj-text font-size="19px" line-height="24px" color="#393a3d" padding-bottom="20px">
-        Merci d'avoir choisi QuickBooks ! Profitez de notre webinaire gratuit pour accélérer votre prise en main et exploiter tout le potentiel des fonctionnalités à votre disposition.
+        Profitez de nos webinaires gratuits pour bien prendre en main QuickBooks.
         </mj-text>
+         <mj-text font-size="19px" line-height="24px" color="#393a3d" padding-bottom="20px">
+        Vous aurez l'opportunité de poser vos questions à nos experts.
+        </mj-text> 
         <mj-button background-color="#2ca01c" href="https://register.gotowebinar.com/rt/545054716298803725?source=ftu" inner-padding="9px 24px" border-radius="18px" align="left" height="36px" padding="0" font-size="16px" font-weight="600">
           Je m'inscris
         </mj-button>
@@ -46,28 +49,44 @@
     <mj-section padding="40px 0 0 0">
       <mj-column >
         <mj-text font-size="24px" line-height="28px" color="#393a3d" font-weight="600" padding-bottom="20px">
-          QuickBooks, votre allé comptabilité
+          Contenu du webinaire gratuit
         </mj-text>
       </mj-column>
     </mj-section>
     <!-- END TITLE SECONDARY SECTION 1 -->
     <!-- START CONTENT SECONDARY SECTION 1 -->
-    <mj-section padding="0 0 40px 0">
-    <mj-group>
-        <mj-column width="85%" vertical-align="middle">
+    <mj-section padding="0 0 20px 0">
+        <mj-column vertical-align="middle">
           <mj-text font-size="16px" line-height="20px" color="#393a3d" font-weight="400" padding-bottom="3px">
-            <a href="https://www.youtube.com/watch?v%3DkoDi54pVVwg%26t%3D11s&sa=D&source=editors&ust=1620379833016000&usg=AFQjCNElbXuZaWT71T-WJRAJ8rmkICNYFw" style="color: #0077c5;text-decoration: underline;">Présentation de QuickBooks</a>
-          </mj-text>
-           <mj-text font-size="16px" line-height="20px" color="#393a3d" font-weight="400" >
-           Tour d'horizon en 1:30 minute chrono
+            Conçue pour les nouveaux clients, cette formation couvre les principales fonctionnalités  :
           </mj-text>
         </mj-column>
-        <mj-column width="15%" vertical-align="middle">
-          <mj-image src="https://quickbooks.intuit.com/cmc-emails/shared/list-arrow.png" width="25px" align="right"/>
+    </mj-section>
+    <!-- END CONTENT SECONDARY SECTION 1 -->
+     <!-- START ICONS SECONDARY SECTION 1 -->
+    <mj-section padding="0 0 40px 0">
+      <mj-group>
+        <mj-column >
+          <mj-image src="https://img03.en25.com/EloquaImages/clients/IntuitSBG/%7Bdabe0ce9-56ad-49ad-9b9d-c0d8d8df39ce%7D_icon-book.png" width="70px" />
+            <mj-text font-size="16px" line-height="20px" color="#393a3d" font-weight="600" padding-top="8px" align="center">
+              Cycle de vente
+            </mj-text>
+        </mj-column>
+        <mj-column >
+          <mj-image src="https://img03.en25.com/EloquaImages/clients/IntuitSBG/%7B239b3ff8-7410-4c0f-bd2a-c130a1609b49%7D_icon-dollars.png" width="59px" />
+            <mj-text font-size="16px" line-height="20px" color="#393a3d" font-weight="600" padding-top="8px" align="center">
+              Cycle d’achat
+            </mj-text>
+        </mj-column>
+        <mj-column >
+          <mj-image src="https://img03.en25.com/EloquaImages/clients/IntuitSBG/%7Bd833c3c8-518f-4d66-9146-e80b74da2f5c%7D_illo-utility-qbo-invoice.png" width="46px" />
+            <mj-text font-size="16px" line-height="20px" color="#393a3d" font-weight="600" padding-top="8px" align="center">
+              Rapprochement des opérations
+            </mj-text>
         </mj-column>
       </mj-group>
     </mj-section>
-    <!-- END CONTENT SECONDARY SECTION 1 -->
+    <!-- END ICONS SECONDARY SECTION 1 -->
     <!-- START DIVIDER -->
     <mj-section>
       <mj-column>
@@ -79,74 +98,21 @@
     <mj-section padding="40px 0 0 0">
       <mj-column >
         <mj-text font-size="24px" line-height="28px" color="#393a3d" font-weight="600" padding-bottom="20px">
-          Les clés pour bien démarrer
+          Déjà à l'aise avec QuickBooks ? 
         </mj-text>
       </mj-column>
     </mj-section>
     <!-- END TITLE SECONDARY SECTION 2 -->
-    <!-- START SECONDARY SECTION 2 // Line 1 -->
-    <mj-section padding="0px 0px 8px 0">
-      <mj-group>
-        <mj-column width="85%" vertical-align="middle">
-          <mj-text font-size="16px" line-height="20px" color="#393a3d" font-weight="400">
-            <a href="https://quickbooks.intuit.com/learn-support/fr-fr/small-business-processes/d%C3%A9finition-de-termes-comptables-courants/01/537450" style="color: #0077c5;text-decoration: underline;">Les termes courants de la comptabilité</a>
+    <!-- START CONTENT SECONDARY SECTION 2 -->
+    <mj-section padding="0 0 0px 0">
+        <mj-column vertical-align="middle">
+          <mj-text font-size="16px" line-height="20px" color="#393a3d" font-weight="400" padding-bottom="0px">
+            <span>Inscrivez-vous au webinaire avancé "<a href="https://register.gotowebinar.com/rt/3799410123109604879?source=ftu" style="color: #0075cd;">Optimiser la gestion des ventes</a>".</span>
           </mj-text>
         </mj-column>
-        <mj-column width="15%" vertical-align="middle">
-          <mj-image src="https://quickbooks.intuit.com/cmc-emails/shared/list-arrow.png" href="https://quickbooks.intuit.com/learn-support/fr-fr/small-business-processes/d%C3%A9finition-de-termes-comptables-courants/01/537450" width="25px" align="right"/>
-        </mj-column>
-      </mj-group>
     </mj-section>
-    <!-- END CONTENT SECONDARY SECTION 2 // Line 1 -->
-    <!-- START DIVIDER -->
-    <mj-section>
-      <mj-column>
-        <mj-divider border-width="1px" border-style="solid" border-color="#babec5" padding="0" />
-      </mj-column>
-    </mj-section>
-    <!-- END DIVIDER -->
-    <!-- START SECONDARY SECTION 2 // Line 2 -->
-    <mj-section padding="10px 0 12px 0">
-      <mj-group>
-        <mj-column width="85%" vertical-align="middle">
-          <mj-text font-size="16px" line-height="20px" color="#393a3d" font-weight="400">
-            <a href="https://quickbooks.intuit.com/learn-support/fr-fr/gestion-des-clients-et-ventes/quelle-est-la-diff%C3%A9rence-entre-une-facture-un-re%C3%A7u-de-vente-une/01/536935" style="color: #0077c5;text-decoration: underline;">Le b.a-ba de la facturation </a>
-          </mj-text>
-        </mj-column>
-        <mj-column width="15%" vertical-align="middle">
-          <mj-image src="https://quickbooks.intuit.com/cmc-emails/shared/list-arrow.png" href="https://quickbooks.intuit.com/learn-support/fr-fr/gestion-des-clients-et-ventes/quelle-est-la-diff%C3%A9rence-entre-une-facture-un-re%C3%A7u-de-vente-une/01/536935" width="25px" align="right"/>
-        </mj-column>
-      </mj-group>
-    </mj-section>
-    <!-- END CONTENT SECONDARY SECTION 2 // Line 2 -->
-    <!-- START DIVIDER -->
-    <mj-section>
-      <mj-column>
-        <mj-divider border-width="1px" border-style="solid" border-color="#babec5" padding="0" />
-      </mj-column>
-    </mj-section>
-    <!-- END DIVIDER -->
-     <!-- START SECONDARY SECTION 2 // Line 3 -->
-    <mj-section padding="10px 0 12px 0">
-      <mj-group>
-        <mj-column width="85%" vertical-align="middle">
-          <mj-text font-size="16px" line-height="20px" color="#393a3d" font-weight="400">
-            <a href="https://quickbooks.intuit.com/learn-support/fr-fr/customise-forms/comment-personnaliser-vos-factures-devis-et-re%C3%A7us-de-vente/01/537185" style="color: #0077c5;text-decoration: underline;">Personnalisation de vos devis et factures</a>
-          </mj-text>
-        </mj-column>
-        <mj-column width="15%" vertical-align="middle">
-          <mj-image src="https://quickbooks.intuit.com/cmc-emails/shared/list-arrow.png" href="https://quickbooks.intuit.com/learn-support/fr-fr/customise-forms/comment-personnaliser-vos-factures-devis-et-re%C3%A7us-de-vente/01/537185" width="25px" align="right"/>
-        </mj-column>
-      </mj-group>
-    </mj-section>
-    <!-- END CONTENT SECONDARY SECTION 2 // Line 3 -->
-    <!-- START DIVIDER -->
-    <mj-section>
-      <mj-column>
-        <mj-divider border-width="1px" border-style="solid" border-color="#babec5" padding="0" />
-      </mj-column>
-    </mj-section>
-    <!-- END DIVIDER -->
+    <!-- END CONTENT SECONDARY SECTION 2 -->
+   
   </mj-wrapper>
  <mj-section>
  <mj-column>

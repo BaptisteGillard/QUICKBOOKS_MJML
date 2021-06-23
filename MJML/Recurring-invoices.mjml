@@ -1,7 +1,7 @@
 <mjml owa="desktop">
 <mj-head>
-  <mj-title>Facturation : mode brouillon</mj-title>
-  <mj-preview>Faites-vous la main sans risque.</mj-preview>
+  <mj-title>Retard de paiement ?</mj-title>
+  <mj-preview>Pensez aux rappels automatiques ⏰</mj-preview>
   <!-- <mj-breakpoint width="580px" />   -->
   <mj-attributes>
     <mj-section padding="0"/>
@@ -18,18 +18,20 @@
   
   <mj-wrapper background-color="#fff" padding="0 20px 40px 20px" border-radius="10px" css-class="container_wrap">
     <!-- START PRIMARY SECTION -->
-    <mj-section padding="40px 0">
-      <mj-column vertical-align="middle" >
-        <mj-text font-size="36px" line-height="40px" font-weight="bold" color="#393a3d" padding-bottom="20px" align="center">
-          Éditez vos factures en toute sérénité
+    <mj-section direction="rtl" padding="40px 0">
+      <mj-column width="50%" vertical-align="middle" css-class="pr_40" padding-left="20px">
+        <mj-image css-class="pb_mob" src="https://quickbooks.intuit.com/cmc-emails/44289/44289_primary-13.png" />
+      </mj-column>
+      <mj-column width="50%" vertical-align="middle" css-class="pr_40" padding-right="20px">
+        <mj-text font-size="36px" line-height="40px" font-weight="bold" color="#393a3d" padding-bottom="20px">
+          Finie la chasse aux impayés
         </mj-text>
-        <mj-text font-size="19px" line-height="24px" color="#393a3d" padding-bottom="20px" align="center">
-        Votre facture "Brouillon" n'entre pas encore dans le calcul de votre chiffre d'affaires, vous pouvez tester sans commettre d'impairs.
+        <mj-text font-size="19px" line-height="24px" color="#393a3d" padding-bottom="20px" >
+          Paramétrez jusqu'à 3 niveaux de relances afin de réduire les risques de factures non payées après échéance
         </mj-text>
-        <mj-button background-color="#2ca01c" href="https://qbo.intuit.com/qbo35/login?pagereq=invoice" inner-padding="9px 24px" border-radius="18px" align="center" height="36px" padding="0" font-size="16px" font-weight="600">
-          Découvrir le mode brouillon
+        <mj-button background-color="#2ca01c" href="https://qbo.intuit.com/qbo35/login?pagereq=accountsettings?p=sales" inner-padding="9px 24px" border-radius="18px" align="left" height="36px" padding="0" font-size="16px" font-weight="600">
+          J'active les relances
         </mj-button>
-        <mj-image src="http://images.eq.intuit.com/EloquaImages/clients/IntuitSBG/%7Bb1d4bdf3-6fdd-4356-841a-75a4f32dc96d%7D_img_facture_brouillon%402x.png" align="center" padding-top="40px"/>
       </mj-column>
     </mj-section>
     <!-- END PRIMARY SECTION -->
@@ -40,57 +42,24 @@
       </mj-column>
     </mj-section>
     <!-- END DIVIDER -->
-     <!-- START TITLE SECONDARY -->
+     <!-- START TITLE SECONDARY SECTION 1 -->
     <mj-section padding="40px 0 0 0">
       <mj-column >
         <mj-text font-size="24px" line-height="28px" color="#393a3d" font-weight="600" padding-bottom="20px">
-          Que faire en cas d'erreur sur une facture finalisée ? 
+          Pas à pas sur les relances automatiques. 
         </mj-text>
       </mj-column>
     </mj-section>
-    <!-- END TITLE SECONDARY -->
-    <!-- START SECONDARY // Line 1 -->
-    <mj-section padding="0px 0px 8px 0">
-      <mj-group>
-        <mj-column width="85%" vertical-align="middle">
-          <mj-text font-size="16px" line-height="20px" color="#393a3d" font-weight="400">
-            <a href="https://quickbooks.intuit.com/learn-support/fr-fr/accounts-receivable-reports/comment-annuler-supprimer-une-facture/01/536890#M2" style="color: #0077c5;text-decoration: underline;">Annuler une facture</a><br>Avoir d'annulation en conformité avec la loi anti-fraude. 
-          </mj-text>
-        </mj-column>
-        <mj-column width="15%" vertical-align="middle">
-          <mj-image src="https://quickbooks.intuit.com/cmc-emails/shared/list-arrow.png" href="https://quickbooks.intuit.com/learn-support/fr-fr/accounts-receivable-reports/comment-annuler-supprimer-une-facture/01/536890#M2" width="25px" align="right"/>
-        </mj-column>
-      </mj-group>
-    </mj-section>
-    <!-- END CONTENT SECONDARY // Line 1 -->
-    <!-- START DIVIDER -->
-    <mj-section>
-      <mj-column>
-        <mj-divider border-width="1px" border-style="solid" border-color="#babec5" padding="0" />
+    <!-- END TITLE SECONDARY SECTION 1 -->
+    <!-- START CONTENT SECONDARY SECTION 1 -->
+    <mj-section padding="0 0 0px 0">
+      <mj-column vertical-align="middle">
+        <mj-text font-size="16px" line-height="20px" color="#393a3d" font-weight="400" padding-bottom="3px">
+        On vous explique tout sur l'activation des relances automatiques et leur mise en place. <a href="https://quickbooks.intuit.com/learn-support/fr-fr/manage-invoices/automatisez-les-rappels-des-factures-dans-quickbooks/01/537163" style="color: #0077c5;text-decoration: underline;">Lire le guide</a>.
+        </mj-text>
       </mj-column>
     </mj-section>
-    <!-- END DIVIDER -->
-    <!-- START SECONDARY // Line 2 -->
-    <mj-section padding="10px 0 12px 0">
-      <mj-group>
-        <mj-column width="85%" vertical-align="middle">
-          <mj-text font-size="16px" line-height="20px" color="#393a3d" font-weight="400">
-            <a href="https://quickbooks.intuit.com/learn-support/fr-fr/accounts-receivable-reports/comment-modifier-une-facture-existante/00/536866" style="color: #0077c5;text-decoration: underline;">Modifier une facture existante.</a><br>Les champs qui n’ont pas d’impact comptable peuvent être modifiés à souhait.
-          </mj-text>
-        </mj-column>
-        <mj-column width="15%" vertical-align="middle">
-          <mj-image src="https://quickbooks.intuit.com/cmc-emails/shared/list-arrow.png" href="https://quickbooks.intuit.com/learn-support/fr-fr/accounts-receivable-reports/comment-modifier-une-facture-existante/00/536866" width="25px" align="right"/>
-        </mj-column>
-      </mj-group>
-    </mj-section>
-    <!-- END CONTENT SECONDARY // Line 2 -->
-    <!-- START DIVIDER -->
-    <mj-section>
-      <mj-column>
-        <mj-divider border-width="1px" border-style="solid" border-color="#babec5" padding="0" />
-      </mj-column>
-    </mj-section>
-    <!-- END DIVIDER -->
+    <!-- END CONTENT SECONDARY SECTION 1 -->
   </mj-wrapper>
  <mj-section>
  <mj-column>

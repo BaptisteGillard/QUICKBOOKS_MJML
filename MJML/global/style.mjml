@@ -38,6 +38,8 @@
 @media only screen and (max-width: 480px) { 
   .center{text-align:left !important;}
   .center img{padding-bottom:20px !important;}
+  .pr_40>table>tbody>tr>td{padding-right:0px!important;padding-left:0px!important}
+  .pb_mob>table>tbody>tr>td{padding-bottom:20px}
 }
 @media only screen and (max-width: 600px) { 
 
