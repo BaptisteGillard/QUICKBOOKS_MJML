@@ -1,0 +1,161 @@
+<mjml owa="desktop">
+<mj-head>
+  <mj-title>Facturation : mode brouillon</mj-title>
+  <mj-preview>Faites-vous la main sans risque.</mj-preview>
+  <!-- <mj-breakpoint width="580px" />   -->
+  <mj-attributes>
+    <mj-section padding="0"/>
+    <mj-column padding="0"/>
+    <mj-text padding="0"/>  
+    <mj-image padding="0"/>
+    <mj-all font-family="Avenir, Arial, sans-serif" />
+  </mj-attributes>
+  <mj-include path="global/style.mjml" />
+  <mj-include path="global/style_inline.mjml" />
+</mj-head>
+<mj-body width="600px" background-color="#ECEEF1"> 
+  <mj-include path="global/headers/se_connecter.mjml" />
+  
+  <mj-wrapper background-color="#fff" padding="0 20px 40px 20px" border-radius="10px" css-class="container_wrap">
+    <!-- START PRIMARY SECTION -->
+    <mj-section padding="40px 0">
+      <mj-column vertical-align="middle" >
+        <mj-text font-size="36px" line-height="40px" font-weight="bold" color="#393a3d" padding-bottom="20px" align="center">
+          Éditez vos factures en toute sérénité
+        </mj-text>
+        <mj-text font-size="19px" line-height="24px" color="#393a3d" padding-bottom="20px" align="center">
+        Votre facture "Brouillon" n'entre pas encore dans le calcul de votre chiffre d'affaires, vous pouvez tester sans commettre d'impairs.
+        </mj-text>
+        <mj-button background-color="#2ca01c" href="https://qbo.intuit.com/qbo35/login?pagereq=invoice" inner-padding="9px 24px" border-radius="18px" align="center" height="36px" padding="0" font-size="16px" font-weight="600">
+          Découvrir le mode brouillon
+        </mj-button>
+        <mj-image src="http://images.eq.intuit.com/EloquaImages/clients/IntuitSBG/%7Bb1d4bdf3-6fdd-4356-841a-75a4f32dc96d%7D_img_facture_brouillon%402x.png" css-class="primary-img" align="center" padding-top="40px"/>
+      </mj-column>
+    </mj-section>
+    <!-- END PRIMARY SECTION -->
+    <!-- START DIVIDER -->
+    <mj-section>
+      <mj-column>
+        <mj-divider border-width="3px" border-style="solid" border-color="#babec5" padding="0" />
+      </mj-column>
+    </mj-section>
+    <!-- END DIVIDER -->
+     <!-- START TITLE SECONDARY -->
+    <mj-section padding="40px 0 0 0">
+      <mj-column >
+        <mj-text font-size="24px" line-height="28px" color="#393a3d" font-weight="600" padding-bottom="20px">
+          Que faire en cas d'erreur sur une facture finalisée ? 
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- END TITLE SECONDARY -->
+    <!-- START SECONDARY // Line 1 -->
+    <mj-section padding="0px 0px 8px 0">
+      <mj-group>
+        <mj-column width="85%" vertical-align="middle">
+          <mj-text font-size="16px" line-height="20px" color="#393a3d" font-weight="400">
+            <a href="https://quickbooks.intuit.com/learn-support/fr-fr/accounts-receivable-reports/comment-annuler-supprimer-une-facture/01/536890#M2" style="color: #0077c5;text-decoration: underline;">Annuler une facture</a><br>Avoir d'annulation en conformité avec la loi anti-fraude. 
+          </mj-text>
+        </mj-column>
+        <mj-column width="15%" vertical-align="middle">
+          <mj-image src="https://quickbooks.intuit.com/cmc-emails/shared/list-arrow.png" href="https://quickbooks.intuit.com/learn-support/fr-fr/accounts-receivable-reports/comment-annuler-supprimer-une-facture/01/536890#M2" width="25px" align="right"/>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+    <!-- END CONTENT SECONDARY // Line 1 -->
+    <!-- START DIVIDER -->
+    <mj-section>
+      <mj-column>
+        <mj-divider border-width="1px" border-style="solid" border-color="#babec5" padding="0" />
+      </mj-column>
+    </mj-section>
+    <!-- END DIVIDER -->
+    <!-- START SECONDARY // Line 2 -->
+    <mj-section padding="10px 0 12px 0">
+      <mj-group>
+        <mj-column width="85%" vertical-align="middle">
+          <mj-text font-size="16px" line-height="20px" color="#393a3d" font-weight="400">
+            <a href="https://quickbooks.intuit.com/learn-support/fr-fr/accounts-receivable-reports/comment-modifier-une-facture-existante/00/536866" style="color: #0077c5;text-decoration: underline;">Modifier une facture existante.</a><br>Les champs qui n’ont pas d’impact comptable peuvent être modifiés à souhait.
+          </mj-text>
+        </mj-column>
+        <mj-column width="15%" vertical-align="middle">
+          <mj-image src="https://quickbooks.intuit.com/cmc-emails/shared/list-arrow.png" href="https://quickbooks.intuit.com/learn-support/fr-fr/accounts-receivable-reports/comment-modifier-une-facture-existante/00/536866" width="25px" align="right"/>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+    <!-- END CONTENT SECONDARY // Line 2 -->
+    <!-- START DIVIDER -->
+    <mj-section>
+      <mj-column>
+        <mj-divider border-width="1px" border-style="solid" border-color="#babec5" padding="0" />
+      </mj-column>
+    </mj-section>
+    <!-- END DIVIDER -->
+  </mj-wrapper>
+ <mj-section>
+ <mj-column>
+  <mj-spacer height="20px" /> 
+  </mj-column>
+  </mj-section>
+<!-- START SECONDARY SECTION 3 -->
+  <mj-wrapper background-color="#fff" padding="40px 20px" border-radius="10px" css-class="container_wrap2">
+     <!-- START TITLE SECONDARY SECTION 3 -->
+    <mj-section padding="0px 0 0 0">
+      <mj-column>
+        <mj-text font-size="24px" line-height="28px" color="#393a3d" font-weight="600">
+          QuickBooks vous accompagne
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- END TITLE SECONDARY SECTION 3 -->
+    <!-- START CONTENT SECONDARY SECTION 3 // LINE 1 -->
+    <mj-section padding="40px 0 0 0">
+      <mj-column width="20%" vertical-align="middle">
+        <mj-image src="https://quickbooks.intuit.com/cmc-emails/template-examples/v3.0/SM-02_example-1.png" width="58px" css-class="pr_20 center"/>
+      </mj-column>
+      <mj-column width="80%" vertical-align="middle">
+        <mj-text font-size="16px" line-height="20px" color="#393a3d" font-weight="600" padding-bottom="8px">
+          Communauté
+        </mj-text>
+        <mj-text font-size="16px" line-height="20px" color="#393a3d" font-weight="400">
+          Consultez plus de <a href="https://quickbooks.intuit.com/learn-support/communaut%C3%A9-quickbooks-france/misc/03/communaute-fr" style="color: #0075cd;">200 articles et tutos vidéo</a>, profitez des conseils de l'équipe QuickBooks et d'autres utilisateurs comme vous.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- END CONTENT SECONDARY SECTION 3 // LINE 1 -->
+       <!-- START CONTENT SECONDARY SECTION 3 // LINE 2 -->
+    <mj-section padding="40px 0 0 0">
+      <mj-column width="20%" vertical-align="middle">
+        <mj-image src="https://quickbooks.intuit.com/cmc-emails/template-examples/v3.0/SM-02_example-3.png" width="42px" css-class="pr_20 center"/>
+      </mj-column>
+      <mj-column width="80%" vertical-align="middle">
+        <mj-text font-size="16px" line-height="20px" color="#393a3d" font-weight="600" padding-bottom="8px">
+          Support client
+        </mj-text>
+        <mj-text font-size="16px" line-height="20px" color="#393a3d" font-weight="400">
+          Cliquez sur <a href="https://app.qbo.intuit.com/app/qboHelp" style="color: #0075cd;">le bouton Aide</a> depuis votre compte QuickBooks pour contacter notre équipe.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- END CONTENT SECONDARY SECTION 3 // LINE 2 -->
+    <!-- START CONTENT SECONDARY SECTION 3 // LINE 3 -->
+    <mj-section padding="40px 0 0 0">
+      <mj-column width="20%" vertical-align="middle">
+        <mj-image src="https://img03.en25.com/EloquaImages/clients/IntuitSBG/%7B85cb9992-a9a4-4e2e-8ab7-66f6311a0ad4%7D_Laptop.png" width="42px" css-class="pr_20 center"/>
+      </mj-column>
+      <mj-column width="80%" vertical-align="middle">
+        <mj-text font-size="16px" line-height="20px" color="#393a3d" font-weight="600" padding-bottom="8px">
+          Webinaire découverte
+        </mj-text>
+        <mj-text font-size="16px" line-height="20px" color="#393a3d" font-weight="400">
+          Retrouvez les bases de QuickBooks dans notre <a href="https://app.qbo.intuit.com/app/qboHelp" style="color: #0075cd;">webinaire "Bien démarrer avec QuickBooks"</a>.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- END CONTENT SECONDARY SECTION 3 // LINE 3 -->
+  </mj-wrapper>
+  <!-- END SECONDARY SECTION 3 -->
+
+  <mj-include path="global/footers/classic.mjml" />
+  
+</mj-body>
