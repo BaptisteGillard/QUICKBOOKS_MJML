@@ -192,10 +192,10 @@
       </mj-column>
       <mj-column width="80%" vertical-align="middle">
         <mj-text font-size="16px" line-height="20px" color="#393a3d" font-weight="600" padding-bottom="8px">
-          Communauté d'utilisateurs
+          Communauté
         </mj-text>
         <mj-text font-size="16px" line-height="20px" color="#393a3d" font-weight="400">
-          Retrouvez nos articles d'aide et vidéos pour vous accompagner 24h/24, interagissez avec d'autres utilisateurs et profitez des conseils de l'équipe QuickBooks. <a href="https://quickbooks.intuit.com/learn-support/communaut%C3%A9-quickbooks-france/misc/03/communaute-fr" style="color: #0075cd;">Découvrir</a>.
+          Consultez plus de <a href="https://quickbooks.intuit.com/learn-support/communaut%C3%A9-quickbooks-france/misc/03/communaute-fr" style="color: #0075cd;">200 articles et tutos vidéo</a>, profitez des conseils de l'équipe QuickBooks et d'autres utilisateurs comme vous.
         </mj-text>
       </mj-column>
     </mj-section>
@@ -203,14 +203,14 @@
        <!-- START CONTENT SECONDARY SECTION 3 // LINE 2 -->
     <mj-section padding="40px 0 0 0">
       <mj-column width="20%" vertical-align="middle">
-        <mj-image src="https://quickbooks.intuit.com/cmc-emails/template-examples/v3.0/SM-02_example-3.png" width="58px" css-class="pr_20 center"/>
+        <mj-image src="https://quickbooks.intuit.com/cmc-emails/template-examples/v3.0/SM-02_example-3.png" width="42px" css-class="pr_20 center"/>
       </mj-column>
       <mj-column width="80%" vertical-align="middle">
         <mj-text font-size="16px" line-height="20px" color="#393a3d" font-weight="600" padding-bottom="8px">
           Support client
         </mj-text>
         <mj-text font-size="16px" line-height="20px" color="#393a3d" font-weight="400">
-          Vous pouvez également contacter notre équipe (chat, demande de rappel) via <a href="https://app.qbo.intuit.com/app/qboHelp" style="color: #0075cd;">le bouton Aide</a> dans l'interface.
+          Cliquez sur <a href="https://app.qbo.intuit.com/app/qboHelp" style="color: #0075cd;">le bouton Aide</a> depuis votre compte QuickBooks pour contacter notre équipe.
         </mj-text>
       </mj-column>
     </mj-section>
