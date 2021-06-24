@@ -1,7 +1,7 @@
 <mjml owa="desktop">
 <mj-head>
-  <mj-title>Formation gratuite QuickBooks</mj-title>
-  <mj-preview>Sessions toutes les semaines, réservez votre place. </mj-preview>
+  <mj-title>Solution de gestion des dépenses</mj-title>
+  <mj-preview>Découvrez Dépenses express</mj-preview>
   <!-- <mj-breakpoint width="580px" />   -->
   <mj-attributes>
     <mj-section padding="0"/>
@@ -18,102 +18,70 @@
   
   <mj-wrapper background-color="#fff" padding="0 20px 40px 20px" border-radius="10px" css-class="container_wrap">
     <!-- START PRIMARY SECTION -->
-    <mj-section direction="rtl" padding="40px 0">
-      <mj-column width="40%" vertical-align="middle" css-class="pr_40" padding-left="40px">
-        <mj-image src="https://quickbooks.intuit.com/cmc-emails/44289/44289_primary-4.png" />
+    <mj-section direction="rtl" padding="40px 0 0 0">
+      <mj-column width="50%" vertical-align="middle" css-class="pr_40" padding-left="20px">
+        <mj-image css-class="pb_mob" src="https://img03.en25.com/EloquaImages/clients/IntuitSBG/%7B1fc5d89d-1efd-4162-b2d6-d404abcfdce0%7D_Pocket_CFO_-_expenses_%281%29.png" />
       </mj-column>
-      <mj-column width="60%" vertical-align="middle" >
+      <mj-column width="50%" vertical-align="middle" css-class="pr_40" padding-right="20px">
         <mj-text font-size="36px" line-height="40px" font-weight="bold" color="#393a3d" padding-bottom="20px">
-          Maîtrisez les incontournables, étape par étape
+          Vos reçus : simple comme une photo
         </mj-text>
-        <mj-text font-size="19px" line-height="24px" color="#393a3d" padding-bottom="20px">
-        Profitez de nos webinaires gratuits pour bien prendre en main QuickBooks.
+        <mj-text font-size="19px" line-height="24px" color="#393a3d" padding-bottom="20px" >
+          Prenez en photo vos reçus et factures d'achat depuis l'appli QuickBooks ou importez-les depuis votre compte en ligne. QuickBooks les saisit et les pré-catégorise pour vous. <br><br>Dépenses express est disponible avec notre offre Essentials et Plus.
         </mj-text>
-         <mj-text font-size="19px" line-height="24px" color="#393a3d" padding-bottom="20px">
-        Vous aurez l'opportunité de poser vos questions à nos experts.
-        </mj-text> 
-        <mj-button background-color="#2ca01c" href="https://register.gotowebinar.com/rt/545054716298803725?source=ftu" inner-padding="9px 24px" border-radius="18px" align="left" height="36px" padding="0" font-size="16px" font-weight="600">
-          Je m'inscris
+        <mj-button background-color="#2ca01c" href="https://quickbooks.intuit.com/learn-support/fr-fr/track-receipts/tout-savoir-sur-d%C3%A9penses-express/01/537361#M7" inner-padding="9px 24px" border-radius="18px" align="left" height="36px" padding="0" font-size="16px" font-weight="600">
+          En savoir plus
         </mj-button>
       </mj-column>
     </mj-section>
     <!-- END PRIMARY SECTION -->
-    <!-- START DIVIDER -->
-    <mj-section>
-      <mj-column>
-        <mj-divider border-width="3px" border-style="solid" border-color="#babec5" padding="0" />
-      </mj-column>
-    </mj-section>
-    <!-- END DIVIDER -->
-     <!-- START TITLE SECONDARY SECTION 1 -->
-    <mj-section padding="40px 0 0 0">
-      <mj-column >
-        <mj-text font-size="24px" line-height="28px" color="#393a3d" font-weight="600" padding-bottom="20px">
-          Contenu du webinaire gratuit
-        </mj-text>
-      </mj-column>
-    </mj-section>
-    <!-- END TITLE SECONDARY SECTION 1 -->
-    <!-- START CONTENT SECONDARY SECTION 1 -->
-    <mj-section padding="0 0 20px 0">
-        <mj-column vertical-align="middle">
-          <mj-text font-size="16px" line-height="20px" color="#393a3d" font-weight="400" padding-bottom="3px">
-            Conçue pour les nouveaux clients, cette formation couvre les principales fonctionnalités  :
-          </mj-text>
-        </mj-column>
-    </mj-section>
+   
     <!-- END CONTENT SECONDARY SECTION 1 -->
-     <!-- START ICONS SECONDARY SECTION 1 -->
-    <mj-section padding="0 0 40px 0">
-      <mj-group>
-        <mj-column padding-right="5px">
-          <mj-image src="https://img03.en25.com/EloquaImages/clients/IntuitSBG/%7Bdabe0ce9-56ad-49ad-9b9d-c0d8d8df39ce%7D_icon-book.png" width="70px"  />
-            <mj-text font-size="16px" line-height="20px" color="#393a3d" font-weight="600" padding-top="8px" align="center">
-              Cycle de vente
-            </mj-text>
-        </mj-column>
-        <mj-column padding-right="5px" padding-left="5px">
-          <mj-image src="https://img03.en25.com/EloquaImages/clients/IntuitSBG/%7B239b3ff8-7410-4c0f-bd2a-c130a1609b49%7D_icon-dollars.png" width="59px" />
-            <mj-text font-size="16px" line-height="20px" color="#393a3d" font-weight="600" padding-top="8px" align="center">
-              Cycle d’achat
-            </mj-text>
-        </mj-column>
-        <mj-column >
-          <mj-image padding-left="5px" src="https://img03.en25.com/EloquaImages/clients/IntuitSBG/%7B9f747004-91cb-4670-9a78-6c1181622c67%7D_icon-bank.png" width="44px" />
-            <mj-text font-size="16px" line-height="20px" color="#393a3d" font-weight="600" padding-top="8px" align="center">
-              Rapprochement des opérations
-            </mj-text>
-        </mj-column>
+  </mj-wrapper>
+  <mj-section>
+    <mj-column>
+      <mj-spacer height="20px" /> 
+    </mj-column>
+  </mj-section>
+  <mj-wrapper background-color="#fff" padding="0px 20px 0px 20px" border-radius="10px" css-class="container_wrap3">
+  <mj-section padding="40px 0 0 0">
+  <mj-group>
+      <mj-column>
+        <mj-text font-size="24px" line-height="28px" color="#393a3d" font-weight="600" padding-bottom="20px">
+          <span style="color:#2ca01c">QuickBooks</span> partout avec vous 
+        </mj-text>
+
+
+        
+      </mj-column>
+      <!-- <mj-column width="10%">
+       <mj-text line-height="30px" css-class="hide_on_mobile">
+        _______
+       </mj-text>
+      </mj-column>
+      <mj-column width="5%">
+      <mj-text align="right">
+      <img src="https://quickbooks.intuit.com/cmc-emails/shared/bolt/tip-icon.png" style="padding-left:5px" width="24"/>
+      </mj-text>
+      
+      </mj-column> -->
       </mj-group>
     </mj-section>
-    <!-- END ICONS SECONDARY SECTION 1 -->
-    <!-- START DIVIDER -->
-    <mj-section>
-      <mj-column>
-        <mj-divider border-width="3px" border-style="solid" border-color="#babec5" padding="0" />
-      </mj-column>
-    </mj-section>
-    <!-- END DIVIDER -->
-     <!-- START TITLE SECONDARY SECTION 2 -->
-    <mj-section padding="40px 0 0 0">
-      <mj-column >
-        <mj-text font-size="24px" line-height="28px" color="#393a3d" font-weight="600" padding-bottom="20px">
-          Déjà à l'aise avec QuickBooks ? 
+    <mj-section padding="0px 0 0 0">
+      <mj-column padding-right="10px">
+        <mj-text font-size="16px" line-height="20px" color="#393a3d" font-weight="400">
+          Téléchargez l'application iOS ou Android pour gérer votre activité, où que vous soyez. 
         </mj-text>
+        <mj-image width="150px" align="left" padding-top="20px" href="https://apps.apple.com/fr/app/quickbooks/id584606479" src="https://quickbooks.intuit.com/cmc-emails/shared/bolt/social/apple-badge.png" />
+        <mj-image width="150px" align="left" padding-top="8px" padding-bottom="40px" href="https://play.google.com/store/apps/details?id=com.intuit.quickbooks" src="https://quickbooks.intuit.com/cmc-emails/shared/bolt/social/google-badge.png" />
+        
+      </mj-column>
+      <mj-column padding-left="10px" vertical-align="bottom" css-class="hide_on_mobile">
+        <mj-image src="https://img03.en25.com/EloquaImages/clients/IntuitSBG/%7B4bafd541-647b-4a29-b6d3-4e85a2651c07%7D_img-phone-fr.gif" align="left"/>
       </mj-column>
     </mj-section>
-    <!-- END TITLE SECONDARY SECTION 2 -->
-    <!-- START CONTENT SECONDARY SECTION 2 -->
-    <mj-section padding="0 0 0px 0">
-        <mj-column vertical-align="middle">
-          <mj-text font-size="16px" line-height="20px" color="#393a3d" font-weight="400" padding-bottom="0px">
-            <span>Inscrivez-vous au webinaire avancé "<a href="https://register.gotowebinar.com/rt/3799410123109604879?source=ftu" style="color: #0075cd;">Optimiser la gestion des ventes</a>".</span>
-          </mj-text>
-        </mj-column>
-    </mj-section>
-    <!-- END CONTENT SECONDARY SECTION 2 -->
-   
   </mj-wrapper>
+  
  <mj-section>
  <mj-column>
   <mj-spacer height="20px" /> 
@@ -129,6 +97,7 @@
         </mj-text>
       </mj-column>
     </mj-section>
+    
     <!-- END TITLE SECONDARY SECTION 3 -->
     <!-- START CONTENT SECONDARY SECTION 3 // LINE 1 -->
     <mj-section padding="40px 0 0 0">
