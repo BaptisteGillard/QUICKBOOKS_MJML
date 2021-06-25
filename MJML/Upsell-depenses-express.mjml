@@ -51,6 +51,7 @@
       </mj-column>
     </mj-section>
     <mj-section padding="0px 0 0 0">
+    <mj-group>
       <mj-column padding-right="10px">
         <mj-text font-size="16px" line-height="20px" color="#393a3d" font-weight="400">
           Téléchargez l'application iOS ou Android pour gérer votre activité, où que vous soyez. 
@@ -61,6 +62,7 @@
       <mj-column padding-left="10px" vertical-align="bottom">
         <mj-image src="https://img03.en25.com/EloquaImages/clients/IntuitSBG/%7B4bafd541-647b-4a29-b6d3-4e85a2651c07%7D_img-phone-fr.gif" align="left"/>
       </mj-column>
+      </mj-group>
     </mj-section>
    
     <!-- END CONTENT SECONDARY SECTION 1 -->

@@ -1,0 +1,120 @@
+<mjml owa="desktop">
+<mj-head>
+  <mj-title>Découvrez le centre d'aide</mj-title>
+  <mj-preview>QuickBooks à vos côtés pour bien démarrer.</mj-preview>
+  <!-- <mj-breakpoint width="580px" />   -->
+  <mj-attributes>
+    <mj-section padding="0"/>
+    <mj-column padding="0"/>
+    <mj-text padding="0"/>  
+    <mj-image padding="0"/>
+    <mj-all font-family="Avenir, Arial, sans-serif" />
+  </mj-attributes>
+  <mj-include path="global/style.mjml" />
+  <mj-include path="global/style_inline.mjml" />
+</mj-head>
+<mj-body width="600px" background-color="#ECEEF1"> 
+  <mj-include path="global/headers/se_connecter.mjml" />
+  
+  <mj-wrapper background-color="#fff" padding="0 20px 0px 20px" border-radius="10px" css-class="container_wrap3">
+    <!-- START PRIMARY SECTION -->
+    <mj-section padding="40px 0">
+      <mj-column vertical-align="middle" >
+        <mj-text font-size="36px" line-height="40px" font-weight="bold" color="#393a3d" padding-bottom="20px" align="center">
+          Laissez-vous guider
+        </mj-text>
+        <mj-text font-size="19px" line-height="24px" color="#393a3d" padding-bottom="20px" align="center">
+        Nous mettons à votre disposition toutes les ressources pour vous accompagner dans l'utilisation de QuickBooks et optimiser votre gestion.
+        </mj-text>
+        <mj-button background-color="#2ca01c" href="https://www.youtube.com/watch?v=_EW45lG1Xh0" inner-padding="9px 24px" border-radius="18px" align="center" height="36px" padding="0" font-size="16px" font-weight="600">
+          Toute l'aide en 1 minute
+        </mj-button>
+        <mj-image src="https://img03.en25.com/EloquaImages/clients/IntuitSBG/%7Ba24ea02c-7402-40bc-9bf7-a1b95ade3fac%7D_Community_screen.png" href="https://www.youtube.com/watch?v=_EW45lG1Xh0" align="center" padding-top="40px"/>
+      </mj-column>
+    </mj-section>
+   
+    
+  </mj-wrapper>
+ <mj-section>
+ <mj-column>
+  <mj-spacer height="20px" /> 
+  </mj-column>
+  </mj-section>
+<!-- START SECONDARY SECTION 3 -->
+  <mj-wrapper background-color="#fff" padding="40px 20px" border-radius="10px" css-class="container_wrap2">
+     <!-- START TITLE SECONDARY SECTION 3 -->
+    <mj-section padding="0px 0 0 0">
+      <mj-column>
+        <mj-text font-size="24px" line-height="28px" color="#393a3d" font-weight="600">
+          QuickBooks vous accompagne
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- END TITLE SECONDARY SECTION 3 -->
+    <!-- START CONTENT SECONDARY SECTION 3 // LINE 1 -->
+    <mj-section padding="40px 0 0 0">
+      <mj-column width="20%" vertical-align="middle">
+        <mj-image src="https://img03.en25.com/EloquaImages/clients/IntuitSBG/{4c3ef607-eb67-4d48-9d97-120391bac825}_icon-tutorials.png" width="58px" css-class="pr_20 center"/>
+      </mj-column>
+      <mj-column width="80%" vertical-align="middle">
+        <mj-text font-size="16px" line-height="20px" color="#393a3d" font-weight="600" padding-bottom="8px">
+          Les articles et vidéos de la Communauté
+        </mj-text>
+        <mj-text font-size="16px" line-height="20px" color="#393a3d" font-weight="400">
+        Plus de <a href="https://quickbooks.intuit.com/learn-support/articles-d-aide/misc/03/articles-d-aide-fr?label=QuickBooks" style="color: #0075cd;">200 articles et tutos vidéo</a> à consulter pour vous guider pas à pas et découvrir tout le potentiel de QuickBooks.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- END CONTENT SECONDARY SECTION 3 // LINE 1 -->
+       <!-- START CONTENT SECONDARY SECTION 3 // LINE 2 -->
+    <mj-section padding="40px 0 0 0">
+      <mj-column width="20%" vertical-align="middle">
+        <mj-image src="https://quickbooks.intuit.com/cmc-emails/template-examples/v3.0/SM-02_example-1.png" width="58px" css-class="pr_20 center"/>
+      </mj-column>
+      <mj-column width="80%" vertical-align="middle">
+        <mj-text font-size="16px" line-height="20px" color="#393a3d" font-weight="600" padding-bottom="8px">
+          Le forum de la Communauté
+        </mj-text>
+        <mj-text font-size="16px" line-height="20px" color="#393a3d" font-weight="400">
+        Des experts QuickBooks et des utilisateurs comme vous pour <a href="https://quickbooks.intuit.com/learn-support/questions-utilisateurs/misc/03/questions-quickbooks-fr?label=QuickBooks" style="color: #0075cd;">échanger et poser vos questions</a>.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- END CONTENT SECONDARY SECTION 3 // LINE 2 -->
+    <!-- START CONTENT SECONDARY SECTION 3 // LINE 3 -->
+    <mj-section padding="40px 0 0 0">
+      <mj-column width="20%" vertical-align="middle">
+        <mj-image src="https://quickbooks.intuit.com/cmc-emails/template-examples/v3.0/SM-02_example-3.png" width="52px" css-class="pr_20 center"/>
+      </mj-column>
+      <mj-column width="80%" vertical-align="middle">
+        <mj-text font-size="16px" line-height="20px" color="#393a3d" font-weight="600" padding-bottom="8px">
+          Le support client
+        </mj-text>
+        <mj-text font-size="16px" line-height="20px" color="#393a3d" font-weight="400">
+        Discutez en ligne avec nos agents ou demandez à être rappelé via <a href="https://qbo.intuit.com/qbo35/login?pagereq=qboHelp" style="color: #0075cd;">le button d'aide</a> directement depuis votre compte QuickBooks.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- END CONTENT SECONDARY SECTION 3 // LINE 3 -->
+    <!-- START CONTENT SECONDARY SECTION 3 // LINE 4 -->
+    <mj-section padding="40px 0 0 0">
+      <mj-column width="20%" vertical-align="middle">
+        <mj-image src="https://img03.en25.com/EloquaImages/clients/IntuitSBG/%7B85cb9992-a9a4-4e2e-8ab7-66f6311a0ad4%7D_Laptop.png" width="52px" css-class="pr_20 center"/>
+      </mj-column>
+      <mj-column width="80%" vertical-align="middle">
+        <mj-text font-size="16px" line-height="20px" color="#393a3d" font-weight="600" padding-bottom="8px">
+          Les formations gratuites
+        </mj-text>
+        <mj-text font-size="16px" line-height="20px" color="#393a3d" font-weight="400">
+        <a href="https://quickbooks.intuit.com/learn-support/fr-fr/autres-articles/d%C3%A9couvrir-nos-formations-gratuites-quickbooks-en-ligne/01/881566?source=ftu" style="color: #0075cd;">Des formations</a> conçues par nos experts pour vous accompagner en fonction de vos besoins.
+
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- END CONTENT SECONDARY SECTION 3 // LINE 4 -->
+  </mj-wrapper>
+  <!-- END SECONDARY SECTION 3 -->
+
+  <mj-include path="global/footers/classic.mjml" />
+  
+</mj-body>
