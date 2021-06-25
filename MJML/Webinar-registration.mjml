@@ -19,11 +19,11 @@
   <mj-wrapper background-color="#fff" padding="0 20px 40px 20px" border-radius="10px" css-class="container_wrap">
     <!-- START PRIMARY SECTION -->
     <mj-section direction="rtl" padding="40px 0">
-      <mj-column width="40%" vertical-align="middle" css-class="pr_40" padding-left="40px">
+      <mj-column width="38%" vertical-align="middle" css-class="pr_40" padding-left="30px">
         <mj-image src="https://quickbooks.intuit.com/cmc-emails/44289/44289_primary-4.png" />
       </mj-column>
-      <mj-column width="60%" vertical-align="middle" >
-        <mj-text font-size="36px" line-height="40px" font-weight="bold" color="#393a3d" padding-bottom="20px">
+      <mj-column width="62%" vertical-align="middle" >
+        <mj-text font-size="34px" line-height="40px" font-weight="bold" color="#393a3d" padding-bottom="20px">
           Maîtrisez les incontournables, étape par étape
         </mj-text>
         <mj-text font-size="19px" line-height="24px" color="#393a3d" padding-bottom="20px">

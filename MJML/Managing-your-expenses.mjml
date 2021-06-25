@@ -1,7 +1,7 @@
 <mjml owa="desktop">
 <mj-head>
-  <mj-title>Solution de gestion des dépenses</mj-title>
-  <mj-preview>Découvrez Dépenses express</mj-preview>
+  <mj-title>Digitalisez vos dépenses</mj-title>
+  <mj-preview>et réduisez les saisies manuelles</mj-preview>
   <!-- <mj-breakpoint width="580px" />   -->
   <mj-attributes>
     <mj-section padding="0"/>
@@ -16,34 +16,32 @@
 <mj-body width="600px" background-color="#ECEEF1"> 
   <mj-include path="global/headers/se_connecter.mjml" />
   
-  <mj-wrapper background-color="#fff" padding="0 20px 0px 20px" border-radius="10px" css-class="container_wrap3">
+  <mj-wrapper background-color="#fff" padding="0 20px 00px 20px" border-radius="10px" css-class="container_wrap3">
     <!-- START PRIMARY SECTION -->
-    <mj-section padding="40px 0 0 0">
-      
-      <mj-column width="50%" vertical-align="middle" css-class="pr_40" padding-right="20px">
-        <mj-text font-size="36px" line-height="40px" font-weight="bold" color="#393a3d" padding-bottom="20px">
-          Vos reçus : simple comme une photo
+    <mj-section padding="40px 0">
+      <mj-column vertical-align="middle" >
+        <mj-text font-size="36px" line-height="40px" font-weight="bold" color="#393a3d" padding-bottom="20px" align="center">
+          Gestion simplifiée de vos dépenses
         </mj-text>
-        <mj-text font-size="19px" line-height="24px" color="#393a3d" padding-bottom="20px" >
-          Prenez en photo vos reçus et factures d'achat depuis l'appli QuickBooks ou importez-les depuis votre compte en ligne. QuickBooks les saisit et les pré-catégorise pour vous. <br><br>Dépenses express est disponible avec notre offre Essentials et Plus.
+        <mj-text font-size="19px" line-height="24px" color="#393a3d" padding-bottom="20px" align="center">
+        Avec Dépenses Express, importez automatiquement vos reçus et factures d'achat dans votre compte.
+        QuickBooks extrait les données et les pré-catégorise pour vous.
         </mj-text>
-        <mj-button background-color="#2ca01c" href="https://quickbooks.intuit.com/learn-support/fr-fr/track-receipts/tout-savoir-sur-d%C3%A9penses-express/01/537361#M7" inner-padding="9px 24px" border-radius="18px" align="left" height="36px" padding="0" font-size="16px" font-weight="600" padding-bottom="40px">
-          En savoir plus
+        <mj-button background-color="#2ca01c" href="https://c35.qbo.intuit.com/qbo35/login?pagereq=expensemanagement" inner-padding="9px 24px" border-radius="18px" align="center" height="36px" padding="0" font-size="16px" font-weight="600">
+          Télécharger un reçu 
         </mj-button>
-      </mj-column>
-      <mj-column width="50%" vertical-align="middle" css-class="pr_40" padding-left="20px">
-        <mj-image css-class="pb_mob" src="https://img03.en25.com/EloquaImages/clients/IntuitSBG/%7B1fc5d89d-1efd-4162-b2d6-d404abcfdce0%7D_Pocket_CFO_-_expenses_%281%29.png" />
+        <mj-image src="http://images.eq.intuit.com/EloquaImages/clients/IntuitSBG/%7B8a492b82-e3d1-44af-86bd-d514923c81b1%7D_img-depenses-qbo.png" align="center" padding-top="40px"/>
       </mj-column>
     </mj-section>
     <!-- END PRIMARY SECTION -->
-     <!-- START DIVIDER -->
+    <!-- START DIVIDER -->
     <mj-section>
       <mj-column>
         <mj-divider border-width="3px" border-style="solid" border-color="#babec5" padding="0" />
       </mj-column>
     </mj-section>
     <!-- END DIVIDER -->
-    <mj-section padding="40px 0 0 0">
+     <mj-section padding="40px 0 0 0">
       <mj-column>
         <mj-text font-size="24px" line-height="28px" color="#393a3d" font-weight="600" padding-bottom="20px">
           <span style="color:#2ca01c">QuickBooks</span> partout avec vous 
@@ -53,7 +51,7 @@
     <mj-section padding="0px 0 0 0">
       <mj-column padding-right="10px">
         <mj-text font-size="16px" line-height="20px" color="#393a3d" font-weight="400">
-          Téléchargez l'application iOS ou Android pour gérer votre activité, où que vous soyez. 
+          La numérisation des dépenses est encore plus simple depuis votre smartphone.
         </mj-text>
         <mj-image width="150px" align="left" padding-top="20px" href="https://apps.apple.com/fr/app/quickbooks/id584606479" src="https://img03.en25.com/EloquaImages/clients/IntuitSBG/{809c62c6-15de-4a4f-93f9-5a5338aa53d8}_logo-app-store-fr.png" />
         <mj-image width="150px" align="left" padding-top="8px" padding-bottom="20px" href="https://play.google.com/store/apps/details?id=com.intuit.quickbooks" src="https://img03.en25.com/EloquaImages/clients/IntuitSBG/{52d1533c-fe94-4b5b-8947-e86d7d9981f8}_logo-google-play-fr.png" />
@@ -62,8 +60,7 @@
         <mj-image src="https://img03.en25.com/EloquaImages/clients/IntuitSBG/%7B4bafd541-647b-4a29-b6d3-4e85a2651c07%7D_img-phone-fr.gif" align="left"/>
       </mj-column>
     </mj-section>
-   
-    <!-- END CONTENT SECONDARY SECTION 1 -->
+    
   </mj-wrapper>
  <mj-section>
  <mj-column>
@@ -80,7 +77,6 @@
         </mj-text>
       </mj-column>
     </mj-section>
-    
     <!-- END TITLE SECONDARY SECTION 3 -->
     <!-- START CONTENT SECONDARY SECTION 3 // LINE 1 -->
     <mj-section padding="40px 0 0 0">
