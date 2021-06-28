@@ -48,22 +48,44 @@
         <mj-text font-size="24px" line-height="28px" color="#393a3d" font-weight="600" padding-bottom="20px">
           <span style="color:#2ca01c">QuickBooks</span> partout avec vous 
         </mj-text>
-      </mj-column>
-    </mj-section>
-    <mj-section padding="0px 0 0 0">
-    <mj-group>
-      <mj-column padding-right="10px">
         <mj-text font-size="16px" line-height="20px" color="#393a3d" font-weight="400">
           Téléchargez l'application iOS ou Android pour gérer votre activité, où que vous soyez. 
         </mj-text>
-        <mj-image width="150px" align="left" padding-top="20px" href="https://apps.apple.com/fr/app/quickbooks/id584606479" src="https://img03.en25.com/EloquaImages/clients/IntuitSBG/{809c62c6-15de-4a4f-93f9-5a5338aa53d8}_logo-app-store-fr.png" />
-        <mj-image width="150px" align="left" padding-top="8px" padding-bottom="20px" href="https://play.google.com/store/apps/details?id=com.intuit.quickbooks" src="https://img03.en25.com/EloquaImages/clients/IntuitSBG/{52d1533c-fe94-4b5b-8947-e86d7d9981f8}_logo-google-play-fr.png" />
       </mj-column>
-      <mj-column padding-left="10px" vertical-align="bottom">
-        <mj-image src="https://img03.en25.com/EloquaImages/clients/IntuitSBG/%7B4bafd541-647b-4a29-b6d3-4e85a2651c07%7D_img-phone-fr.gif" align="left"/>
+    </mj-section>
+    <!-- <mj-section padding="20px 0 40px 0">
+      <mj-column >
+        <mj-table padding="0">
+          <tr>
+            <td style="width: 150px;padding-left:0px;padding-right:20px" width="150">
+              <a href="https://apps.apple.com/fr/app/quickbooks/id584606479" style="line-height:30px !important">
+                <img style="border:0;display:block;outline:none;text-decoration:none;height:auto;width:100%;font-size:13px;" src="https://img03.en25.com/EloquaImages/clients/IntuitSBG/{809c62c6-15de-4a4f-93f9-5a5338aa53d8}_logo-app-store-fr.png" width="150" />
+              </a>
+            </td>
+            <td style="width: 150px;padding-left:0px;padding-right:20px" width="150">
+              <a href="https://play.google.com/store/apps/details?id=com.intuit.quickbooks" style="line-height:30px !important">
+                <img style="border:0;display:block;outline:none;text-decoration:none;height:auto;width:100%;font-size:13px;" src="https://img03.en25.com/EloquaImages/clients/IntuitSBG/{52d1533c-fe94-4b5b-8947-e86d7d9981f8}_logo-google-play-fr.png" width="150"/>
+              </a>
+            </td>
+            <td>
+            </td>
+          </tr>
+        </mj-table>
+      </mj-column>
+    </mj-section> -->
+     <mj-section padding="20px 0 40px 0">
+     <mj-group>
+      <mj-column width="150px" padding-right="20px">
+        <mj-image width="150px" align="left" src="https://img03.en25.com/EloquaImages/clients/IntuitSBG/{809c62c6-15de-4a4f-93f9-5a5338aa53d8}_logo-app-store-fr.png" href="https://apps.apple.com/fr/app/quickbooks/id584606479" />
+      </mj-column>
+      <mj-column width="150px" padding-right="20px">
+        <mj-image width="500px" src="https://img03.en25.com/EloquaImages/clients/IntuitSBG/{52d1533c-fe94-4b5b-8947-e86d7d9981f8}_logo-google-play-fr.png" href="https://play.google.com/store/apps/details?id=com.intuit.quickbooks" />
+      </mj-column>
+      <mj-column width="40%" css-class="hide_on_mobile">
       </mj-column>
       </mj-group>
     </mj-section>
+
    
     <!-- END CONTENT SECONDARY SECTION 1 -->
   </mj-wrapper>
@@ -123,8 +145,8 @@
         <mj-text font-size="16px" line-height="20px" color="#393a3d" font-weight="600" padding-bottom="8px">
           Webinaire découverte
         </mj-text>
-        <mj-text font-size="16px" line-height="20px" color="#393a3d" font-weight="400">
-          Retrouvez les bases de QuickBooks dans notre <a href="https://app.qbo.intuit.com/app/qboHelp" style="color: #0075cd;">webinaire "Bien démarrer avec QuickBooks"</a>.
+         <mj-text font-size="16px" line-height="20px" color="#393a3d" font-weight="400">
+          Retrouvez les bases de QuickBooks dans notre <a href="https://register.gotowebinar.com/rt/545054716298803725?source=ftu" style="color: #0075cd;">webinaire "Bien démarrer avec QuickBooks"</a>.
         </mj-text>
       </mj-column>
     </mj-section>

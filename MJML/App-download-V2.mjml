@@ -1,7 +1,7 @@
 <mjml owa="desktop">
 <mj-head>
-  <mj-title>Retard de paiement ?</mj-title>
-  <mj-preview>Pensez aux rappels automatiques ⏰</mj-preview>
+  <mj-title>Sur la route ? En déplacement ?</mj-title>
+  <mj-preview>Pas de problème, l'appli QuickBooks est là !</mj-preview>
   <!-- <mj-breakpoint width="580px" />   -->
   <mj-attributes>
     <mj-section padding="0"/>
@@ -16,50 +16,33 @@
 <mj-body width="600px" background-color="#ECEEF1"> 
   <mj-include path="global/headers/se_connecter.mjml" />
   
-  <mj-wrapper background-color="#fff" padding="0 20px 40px 20px" border-radius="10px" css-class="container_wrap">
+  <mj-wrapper background-color="#fff" padding="0 20px 0px 20px" border-radius="10px" css-class="container_wrap3">
     <!-- START PRIMARY SECTION -->
-    <mj-section direction="rtl" padding="40px 0">
-      <mj-column width="50%" vertical-align="middle" css-class="pr_40" padding-left="20px">
-        <mj-image css-class="pb_mob" src="https://quickbooks.intuit.com/cmc-emails/44289/44289_primary-13.png" />
-      </mj-column>
-      <mj-column width="50%" vertical-align="middle" css-class="pr_40" padding-right="20px">
-        <mj-text font-size="36px" line-height="40px" font-weight="bold" color="#393a3d" padding-bottom="20px">
-          Finie la chasse aux impayés
-        </mj-text>
-        <mj-text font-size="19px" line-height="24px" color="#393a3d" padding-bottom="20px" >
-          Paramétrez jusqu'à 3 niveaux de relances afin de réduire les risques de factures non payées après échéance
-        </mj-text>
-        <mj-button background-color="#2ca01c" href="https://qbo.intuit.com/qbo35/login?pagereq=accountsettings?p=sales" inner-padding="9px 24px" border-radius="18px" align="left" height="36px" padding="0" font-size="16px" font-weight="600">
-          J'active les relances
-        </mj-button>
-      </mj-column>
-    </mj-section>
-    <!-- END PRIMARY SECTION -->
-    <!-- START DIVIDER -->
-    <mj-section>
-      <mj-column>
-        <mj-divider border-width="3px" border-style="solid" border-color="#babec5" padding="0" />
-      </mj-column>
-    </mj-section>
-    <!-- END DIVIDER -->
-     <!-- START TITLE SECONDARY SECTION 1 -->
     <mj-section padding="40px 0 0 0">
-      <mj-column >
-        <mj-text font-size="24px" line-height="28px" color="#393a3d" font-weight="600" padding-bottom="20px">
-          Pas à pas sur les relances automatiques. 
+      <mj-column vertical-align="middle" >
+      <mj-image src="https://img03.en25.com/EloquaImages/clients/IntuitSBG/%7B6aaf15ee-801d-4d2e-88f5-18ac5d90bb91%7D_hero-day07.png" align="center" padding-bottom="40px" width="166px"/>
+        <mj-text font-size="36px" line-height="40px" font-weight="bold" color="#393a3d" padding-bottom="0px" align="center">
+          La gestion de votre activité partout, à tout moment
         </mj-text>
+        <mj-image src="https://img03.en25.com/EloquaImages/clients/IntuitSBG/%7Bfb635545-1ff9-4472-bf4c-b22db9183ab0%7D_divider-green.png" align="center" padding-top="40px" padding-bottom="40px" width="264px"/>
       </mj-column>
     </mj-section>
-    <!-- END TITLE SECONDARY SECTION 1 -->
-    <!-- START CONTENT SECONDARY SECTION 1 -->
-    <mj-section padding="0 0 0px 0">
-      <mj-column vertical-align="middle">
-        <mj-text font-size="16px" line-height="20px" color="#393a3d" font-weight="400" padding-bottom="3px">
-        On vous explique tout sur l'activation des relances automatiques et leur mise en place. <a href="https://quickbooks.intuit.com/learn-support/fr-fr/manage-invoices/automatisez-les-rappels-des-factures-dans-quickbooks/01/537163" style="color: #0077c5;text-decoration: underline;">Lire le guide</a>.
+    <mj-section padding="0px 0 0 0">
+    <mj-group>
+      <mj-column padding-right="10px">
+        <mj-text font-size="16px" line-height="20px" color="#393a3d" font-weight="400">
+          Téléchargez l'application pour créer et envoyer des factures, suivre votre trésorerie ou encore prendre en photo vos reçus.
         </mj-text>
+        <mj-image width="150px" align="left" padding-top="20px" href="https://apps.apple.com/fr/app/quickbooks/id584606479" src="https://img03.en25.com/EloquaImages/clients/IntuitSBG/{809c62c6-15de-4a4f-93f9-5a5338aa53d8}_logo-app-store-fr.png" />
+        <mj-image width="150px" align="left" padding-top="8px" padding-bottom="20px" href="https://play.google.com/store/apps/details?id=com.intuit.quickbooks" src="https://img03.en25.com/EloquaImages/clients/IntuitSBG/{52d1533c-fe94-4b5b-8947-e86d7d9981f8}_logo-google-play-fr.png" />
       </mj-column>
+      <mj-column padding-left="10px" vertical-align="bottom">
+        <mj-image src="https://img03.en25.com/EloquaImages/clients/IntuitSBG/%7B4bafd541-647b-4a29-b6d3-4e85a2651c07%7D_img-phone-fr.gif" align="left"/>
+      </mj-column>
+      </mj-group>
     </mj-section>
-    <!-- END CONTENT SECONDARY SECTION 1 -->
+   
+    
   </mj-wrapper>
  <mj-section>
  <mj-column>
@@ -77,7 +60,7 @@
       </mj-column>
     </mj-section>
     <!-- END TITLE SECONDARY SECTION 3 -->
-    <!-- START CONTENT SECONDARY SECTION 3 // LINE 1 -->
+   <!-- START CONTENT SECONDARY SECTION 3 // LINE 1 -->
     <mj-section padding="40px 0 0 0">
       <mj-column width="20%" vertical-align="middle">
         <mj-image src="https://quickbooks.intuit.com/cmc-emails/template-examples/v3.0/SM-02_example-1.png" width="58px" css-class="pr_20 center"/>

@@ -24,7 +24,7 @@
       </mj-column>
       <mj-column width="50%" vertical-align="middle" css-class="pr_40" padding-right="20px">
         <mj-text font-size="36px" line-height="40px" font-weight="bold" color="#393a3d" padding-bottom="20px">
-          Votre 1er mois gratuit s'achève
+          Votre 1<sup>er</sup> mois gratuit s'achève
         </mj-text>
         <mj-text font-size="19px" line-height="24px" color="#393a3d" padding-bottom="20px" >
           Si vous aimez QuickBooks et pensez que notre solution vous aidera dans la gestion quotidienne de votre activité, démarrez votre abonnement (10€ HT/mois; facturation mensuelle, sans engagement).
@@ -114,8 +114,8 @@
         <mj-text font-size="16px" line-height="20px" color="#393a3d" font-weight="600" padding-bottom="8px">
           Webinaire découverte
         </mj-text>
-        <mj-text font-size="16px" line-height="20px" color="#393a3d" font-weight="400">
-          Retrouvez les bases de QuickBooks dans notre <a href="https://app.qbo.intuit.com/app/qboHelp" style="color: #0075cd;">webinaire "Bien démarrer avec QuickBooks"</a>.
+         <mj-text font-size="16px" line-height="20px" color="#393a3d" font-weight="400">
+          Retrouvez les bases de QuickBooks dans notre <a href="https://register.gotowebinar.com/rt/545054716298803725?source=ftu" style="color: #0075cd;">webinaire "Bien démarrer avec QuickBooks"</a>.
         </mj-text>
       </mj-column>
     </mj-section>

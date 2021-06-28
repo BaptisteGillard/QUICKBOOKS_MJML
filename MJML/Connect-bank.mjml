@@ -117,11 +117,11 @@
       <mj-group>
         <mj-column width="85%" vertical-align="middle">
           <mj-text font-size="16px" line-height="20px" color="#393a3d" font-weight="400">
-            <a href="https://quickbooks.intuit.com/learn-support/fr-fr/banque/rapprochement-et-cat%C3%A9gorisation-des-op%C3%A9rations-bancaires-dans/01/537124" style="color: #0077c5;text-decoration: underline;">Connexions bancaires disponibles</a>
+            <a href="https://quickbooks.intuit.com/learn-support/fr-fr/bank-feeds/ma-banque-est-elle-conforme-%C3%A0-la-directive-dsp2/01/537415" style="color: #0077c5;text-decoration: underline;">Connexions bancaires disponibles</a>
           </mj-text>
         </mj-column>
         <mj-column width="15%" vertical-align="middle">
-          <mj-image src="https://quickbooks.intuit.com/cmc-emails/shared/list-arrow.png" href="https://quickbooks.intuit.com/learn-support/fr-fr/banque/rapprochement-et-cat%C3%A9gorisation-des-op%C3%A9rations-bancaires-dans/01/537124" width="25px" align="right"/>
+          <mj-image src="https://quickbooks.intuit.com/cmc-emails/shared/list-arrow.png" href="https://quickbooks.intuit.com/learn-support/fr-fr/bank-feeds/ma-banque-est-elle-conforme-%C3%A0-la-directive-dsp2/01/537415" width="25px" align="right"/>
         </mj-column>
       </mj-group>
     </mj-section>
@@ -190,7 +190,7 @@
           Webinaire découverte
         </mj-text>
         <mj-text font-size="16px" line-height="20px" color="#393a3d" font-weight="400">
-          Retrouvez les bases de QuickBooks dans notre <a href="https://app.qbo.intuit.com/app/qboHelp" style="color: #0075cd;">webinaire "Bien démarrer avec QuickBooks"</a>.
+          Retrouvez les bases de QuickBooks dans notre <a href="https://register.gotowebinar.com/rt/545054716298803725?source=ftu" style="color: #0075cd;">webinaire "Bien démarrer avec QuickBooks"</a>.
         </mj-text>
       </mj-column>
     </mj-section>

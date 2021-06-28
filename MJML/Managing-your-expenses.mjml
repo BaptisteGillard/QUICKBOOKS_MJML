@@ -118,8 +118,8 @@
         <mj-text font-size="16px" line-height="20px" color="#393a3d" font-weight="600" padding-bottom="8px">
           Webinaire découverte
         </mj-text>
-        <mj-text font-size="16px" line-height="20px" color="#393a3d" font-weight="400">
-          Retrouvez les bases de QuickBooks dans notre <a href="https://app.qbo.intuit.com/app/qboHelp" style="color: #0075cd;">webinaire "Bien démarrer avec QuickBooks"</a>.
+         <mj-text font-size="16px" line-height="20px" color="#393a3d" font-weight="400">
+          Retrouvez les bases de QuickBooks dans notre <a href="https://register.gotowebinar.com/rt/545054716298803725?source=ftu" style="color: #0075cd;">webinaire "Bien démarrer avec QuickBooks"</a>.
         </mj-text>
       </mj-column>
     </mj-section>

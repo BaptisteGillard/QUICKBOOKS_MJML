@@ -160,21 +160,6 @@
       </mj-column>
     </mj-section>
     <!-- END CONTENT SECONDARY SECTION 3 // LINE 2 -->
-    <!-- START CONTENT SECONDARY SECTION 3 // LINE 3 -->
-    <mj-section padding="40px 0 0 0">
-      <mj-column width="20%" vertical-align="middle">
-        <mj-image src="https://img03.en25.com/EloquaImages/clients/IntuitSBG/%7B85cb9992-a9a4-4e2e-8ab7-66f6311a0ad4%7D_Laptop.png" width="42px" css-class="pr_20 center"/>
-      </mj-column>
-      <mj-column width="80%" vertical-align="middle">
-        <mj-text font-size="16px" line-height="20px" color="#393a3d" font-weight="600" padding-bottom="8px">
-          Webinaire découverte
-        </mj-text>
-        <mj-text font-size="16px" line-height="20px" color="#393a3d" font-weight="400">
-          Retrouvez les bases de QuickBooks dans notre <a href="https://app.qbo.intuit.com/app/qboHelp" style="color: #0075cd;">webinaire "Bien démarrer avec QuickBooks"</a>.
-        </mj-text>
-      </mj-column>
-    </mj-section>
-    <!-- END CONTENT SECONDARY SECTION 3 // LINE 3 -->
   </mj-wrapper>
   <!-- END SECONDARY SECTION 3 -->
 

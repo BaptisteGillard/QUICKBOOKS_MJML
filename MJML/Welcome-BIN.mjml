@@ -46,7 +46,7 @@
     <mj-section padding="40px 0 0 0">
       <mj-column >
         <mj-text font-size="24px" line-height="28px" color="#393a3d" font-weight="600" padding-bottom="20px">
-          QuickBooks, votre allé comptabilité
+          QuickBooks, votre allié comptabilité
         </mj-text>
       </mj-column>
     </mj-section>
@@ -56,14 +56,14 @@
     <mj-group>
         <mj-column width="85%" vertical-align="middle">
           <mj-text font-size="16px" line-height="20px" color="#393a3d" font-weight="400" padding-bottom="3px">
-            <a href="https://www.youtube.com/watch?v%3DkoDi54pVVwg%26t%3D11s&sa=D&source=editors&ust=1620379833016000&usg=AFQjCNElbXuZaWT71T-WJRAJ8rmkICNYFw" style="color: #0077c5;text-decoration: underline;">Présentation de QuickBooks</a>
+            <a href="https://www.youtube.com/watch?v=koDi54pVVwg" style="color: #0077c5;text-decoration: underline;">Présentation de QuickBooks</a>
           </mj-text>
            <mj-text font-size="16px" line-height="20px" color="#393a3d" font-weight="400" >
            Tour d'horizon en 1:30 minute chrono
           </mj-text>
         </mj-column>
         <mj-column width="15%" vertical-align="middle">
-          <mj-image src="https://quickbooks.intuit.com/cmc-emails/shared/list-arrow.png" width="25px" align="right"/>
+          <mj-image href="https://www.youtube.com/watch?v=koDi54pVVwg" src="https://quickbooks.intuit.com/cmc-emails/shared/list-arrow.png" width="25px" align="right"/>
         </mj-column>
       </mj-group>
     </mj-section>
@@ -194,21 +194,7 @@
       </mj-column>
     </mj-section>
     <!-- END CONTENT SECONDARY SECTION 3 // LINE 2 -->
-    <!-- START CONTENT SECONDARY SECTION 3 // LINE 3 -->
-    <mj-section padding="40px 0 0 0">
-      <mj-column width="20%" vertical-align="middle">
-        <mj-image src="https://img03.en25.com/EloquaImages/clients/IntuitSBG/%7B85cb9992-a9a4-4e2e-8ab7-66f6311a0ad4%7D_Laptop.png" width="42px" css-class="pr_20 center"/>
-      </mj-column>
-      <mj-column width="80%" vertical-align="middle">
-        <mj-text font-size="16px" line-height="20px" color="#393a3d" font-weight="600" padding-bottom="8px">
-          Webinaire découverte
-        </mj-text>
-        <mj-text font-size="16px" line-height="20px" color="#393a3d" font-weight="400">
-          Retrouvez les bases de QuickBooks dans notre <a href="https://app.qbo.intuit.com/app/qboHelp" style="color: #0075cd;">webinaire "Bien démarrer avec QuickBooks"</a>.
-        </mj-text>
-      </mj-column>
-    </mj-section>
-    <!-- END CONTENT SECONDARY SECTION 3 // LINE 3 -->
+   
   </mj-wrapper>
   <!-- END SECONDARY SECTION 3 -->
 

@@ -59,13 +59,13 @@
       <mj-group>
         <mj-column padding-right="5px">
           <mj-image src="https://img03.en25.com/EloquaImages/clients/IntuitSBG/%7B04229363-013c-4d91-8484-b8dbc802737a%7D_icon-time.png" width="70px"  />
-            <mj-text font-size="16px" line-height="20px" color="#393a3d" font-weight="600" padding-top="8px" align="center">
-              de gagner un temps précieux sur la transmission des pièces comptables comme vos reçus (finie la boîte à chaussure en fin d'année)
+            <mj-text font-size="16px" line-height="20px" color="#393a3d" font-weight="400" padding-top="8px" align="center">
+              de gagner un temps précieux sur la transmission des pièces comptables comme vos reçus (finie la boîte à chaussure en fin d'année).
             </mj-text>
         </mj-column>
         <mj-column padding-left="5px">
           <mj-image src="https://img03.en25.com/EloquaImages/clients/IntuitSBG/{e7d7f59a-ef37-4192-ba0d-7acf235a9939}_icon-calculator.png" width="44px" />
-            <mj-text font-size="16px" line-height="20px" color="#393a3d" font-weight="600" padding-top="8px" align="center">
+            <mj-text font-size="16px" line-height="20px" color="#393a3d" font-weight="400" padding-top="8px" align="center">
               d'automatiser la production des états financiers (bilan, compte de résultat) et déclarations fiscales (notamment votre TVA).
             </mj-text>
         </mj-column>
@@ -165,8 +165,8 @@
         <mj-text font-size="16px" line-height="20px" color="#393a3d" font-weight="600" padding-bottom="8px">
           Webinaire découverte
         </mj-text>
-        <mj-text font-size="16px" line-height="20px" color="#393a3d" font-weight="400">
-          Retrouvez les bases de QuickBooks dans notre <a href="https://app.qbo.intuit.com/app/qboHelp" style="color: #0075cd;">webinaire "Bien démarrer avec QuickBooks"</a>.
+         <mj-text font-size="16px" line-height="20px" color="#393a3d" font-weight="400">
+          Retrouvez les bases de QuickBooks dans notre <a href="https://register.gotowebinar.com/rt/545054716298803725?source=ftu" style="color: #0075cd;">webinaire "Bien démarrer avec QuickBooks"</a>.
         </mj-text>
       </mj-column>
     </mj-section>
