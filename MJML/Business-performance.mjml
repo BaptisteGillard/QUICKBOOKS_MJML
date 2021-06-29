@@ -1,0 +1,178 @@
+<mjml owa="desktop">
+<mj-head>
+  <mj-title>Combien aurai-je en banque dans 12 mois ? </mj-title>
+  <mj-preview>Ayez un coup d'avance avec le prévisionnel de trésorerie</mj-preview>
+  <!-- <mj-breakpoint width="580px" />   -->
+  <mj-attributes>
+    <mj-section padding="0"/>
+    <mj-column padding="0"/>
+    <mj-text padding="0"/>  
+    <mj-image padding="0"/>
+    <mj-all font-family="Avenir, Arial, sans-serif" />
+  </mj-attributes>
+  <mj-include path="global/style.mjml" />
+  <mj-include path="global/style_inline.mjml" />
+</mj-head>
+<mj-body width="600px" background-color="#ECEEF1"> 
+  <mj-include path="global/headers/se_connecter.mjml" />
+  
+  <mj-wrapper background-color="#fff" padding="0 20px 0px 20px" border-radius="10px" css-class="container_wrap3">
+    <!-- START PRIMARY SECTION -->
+    <mj-section padding="40px 0">
+      <mj-column vertical-align="middle" >
+        <mj-text font-size="36px" line-height="40px" font-weight="bold" color="#393a3d" padding-bottom="20px" align="center">
+          Anticipez votre niveau de trésorerie
+        </mj-text>
+        <mj-text font-size="19px" line-height="24px" color="#393a3d" padding-bottom="20px" align="center">
+        Avec la connexion bancaire, vous pouvez suivre vos entrées et sorties d'argent.
+        Sur la base des opérations bancaires passées, notre outil apprend et vous aide à planifier votre future trésorerie, jusqu'à 24 mois.
+        </mj-text>
+        <mj-button background-color="#2ca01c" href="https://qbo.intuit.com/qbo35/login?pagereq=cashflow-global-planner" inner-padding="9px 24px" border-radius="18px" align="center" height="36px" padding="0" font-size="16px" font-weight="600">
+          Planifier la trésorerie
+        </mj-button>
+        <mj-image src="https://img03.en25.com/EloquaImages/clients/IntuitSBG/%7Bacda749f-dfb3-4794-b89b-d7ee86fd4643%7D_Cashflow_planner_card.png" align="center" width="350px" padding-top="40px" />
+
+        
+      </mj-column>
+    </mj-section>
+    <mj-section padding="40px 20px " background-color="#f6f7f9" border-radius="10px 10px 0 0">
+      <mj-column>
+        <mj-text font-size="20px" line-height="24px" color="#393a3d" font-weight="600" align="center" padding="0 20px">
+          Jusqu'à 80 rapports personnalisables pour pilotez votre activité en temps réel&nbsp;:
+        </mj-text>
+      </mj-column>
+    </mj-section>
+     <mj-section padding="0px 20px 40px 20px" background-color="#f6f7f9" border-radius="0">
+      <mj-column width="18%" vertical-align="middle">
+        <mj-image src="https://img03.en25.com/EloquaImages/clients/IntuitSBG/%7Be7d7f59a-ef37-4192-ba0d-7acf235a9939%7D_icon-calculator.png" width="40px"  css-class="center"/>
+      </mj-column>
+      <mj-column width="5%" padding-right="20px" css-class="hide_on_mobile" vertical-align="middle">
+      <mj-image width="4px" src="https://img03.en25.com/EloquaImages/clients/IntuitSBG/{8d50874a-b020-406a-b143-dace66c02804}_divider-vert-lg.png" />
+      </mj-column>
+      <mj-column width="77%" vertical-align="middle">
+        <mj-text font-size="16px" line-height="20px" color="#393a3d" font-weight="600" padding-bottom="8px">
+          Compte de résultat provisoire
+        </mj-text>
+        <mj-text font-size="16px" line-height="20px" color="#393a3d" font-weight="400">
+          Suivez votre chiffre d’affaires, vos dépenses et vos bénéfices (ou pertes) par mois.
+        </mj-text>
+        </mj-column>
+    </mj-section>
+    <mj-section padding="0px 20px 40px 20px" background-color="#f6f7f9" border-radius="0">
+      <mj-column width="18%" vertical-align="middle">
+        <mj-image src="https://img03.en25.com/EloquaImages/clients/IntuitSBG/%7B239b3ff8-7410-4c0f-bd2a-c130a1609b49%7D_icon-dollars.png" width="50px"  css-class=" center"/>
+      </mj-column>
+      <mj-column width="5%" padding-right="20px" css-class="hide_on_mobile" vertical-align="middle">
+      <mj-image width="4px" src="https://img03.en25.com/EloquaImages/clients/IntuitSBG/{8d50874a-b020-406a-b143-dace66c02804}_divider-vert-lg.png" />
+      </mj-column>
+      <mj-column width="77%" vertical-align="middle">
+        <mj-text font-size="16px" line-height="20px" color="#393a3d" font-weight="600" padding-bottom="8px">
+          Rapport des factures impayées
+        </mj-text>
+        <mj-text font-size="16px" line-height="20px" color="#393a3d" font-weight="400">
+          Affichez les dates d’échéance, les jours de retard et le total dû par chaque client.
+        </mj-text>
+        </mj-column>
+    </mj-section>
+    <mj-section padding="0px 20px 40px 20px" background-color="#f6f7f9" border-radius="0">
+      <mj-column width="18%" vertical-align="middle">
+        <mj-image src="https://img03.en25.com/EloquaImages/clients/IntuitSBG/{dabe0ce9-56ad-49ad-9b9d-c0d8d8df39ce}_icon-book.png" width="50px"  css-class=" center"/>
+      </mj-column>
+      <mj-column width="5%" padding-right="20px" css-class="hide_on_mobile" vertical-align="middle">
+      <mj-image width="4px" src="https://img03.en25.com/EloquaImages/clients/IntuitSBG/{8d50874a-b020-406a-b143-dace66c02804}_divider-vert-lg.png" />
+      </mj-column>
+      <mj-column width="77%" vertical-align="middle">
+        <mj-text font-size="16px" line-height="20px" color="#393a3d" font-weight="600" padding-bottom="8px">
+          Fichier des écritures comptables (FEC)
+        </mj-text>
+        <mj-text font-size="16px" line-height="20px" color="#393a3d" font-weight="400">
+          Assurez la conformité de votre activité auprès de l'administration et facilitez la collaboration avec votre Expert-Comptable.
+        </mj-text>
+        </mj-column>
+    </mj-section>
+    
+ </mj-section>
+    <mj-section padding="0px 20px 40px 20px" background-color="#f6f7f9" border-radius="0 0 10px 10px">
+      <mj-column>
+        <mj-button background-color="#2ca01c" href="https://qbo.intuit.com/qbo35/login?pagereq=reports" inner-padding="9px 24px" border-radius="18px" align="center" height="36px" padding="0" font-size="16px" font-weight="600">
+          Personnaliser les rapports
+        </mj-button>
+      </mj-column>
+    </mj-section>
+     <mj-section>
+ <mj-column>
+  <mj-spacer height="40px" /> 
+  </mj-column>
+  </mj-section>
+
+
+   
+    
+  </mj-wrapper>
+ <mj-section>
+ <mj-column>
+  <mj-spacer height="20px" /> 
+  </mj-column>
+  </mj-section>
+<!-- START SECONDARY SECTION 3 -->
+  <mj-wrapper background-color="#fff" padding="40px 20px" border-radius="10px" css-class="container_wrap2">
+     <!-- START TITLE SECONDARY SECTION 3 -->
+    <mj-section padding="0px 0 0 0">
+      <mj-column>
+        <mj-text font-size="24px" line-height="28px" color="#393a3d" font-weight="600">
+          QuickBooks vous accompagne
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- END TITLE SECONDARY SECTION 3 -->
+   <!-- START CONTENT SECONDARY SECTION 3 // LINE 1 -->
+    <mj-section padding="40px 0 0 0">
+      <mj-column width="20%" vertical-align="middle">
+        <mj-image src="https://quickbooks.intuit.com/cmc-emails/template-examples/v3.0/SM-02_example-1.png" width="58px" css-class="pr_20 center"/>
+      </mj-column>
+      <mj-column width="80%" vertical-align="middle">
+        <mj-text font-size="16px" line-height="20px" color="#393a3d" font-weight="600" padding-bottom="8px">
+          Communauté
+        </mj-text>
+        <mj-text font-size="16px" line-height="20px" color="#393a3d" font-weight="400">
+          Consultez plus de <a href="https://quickbooks.intuit.com/learn-support/communaut%C3%A9-quickbooks-france/misc/03/communaute-fr" style="color: #0075cd;">200 articles et tutos vidéo</a>, profitez des conseils de l'équipe QuickBooks et d'autres utilisateurs comme vous.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- END CONTENT SECONDARY SECTION 3 // LINE 1 -->
+       <!-- START CONTENT SECONDARY SECTION 3 // LINE 2 -->
+    <mj-section padding="40px 0 0 0">
+      <mj-column width="20%" vertical-align="middle">
+        <mj-image src="https://quickbooks.intuit.com/cmc-emails/template-examples/v3.0/SM-02_example-3.png" width="42px" css-class="pr_20 center"/>
+      </mj-column>
+      <mj-column width="80%" vertical-align="middle">
+        <mj-text font-size="16px" line-height="20px" color="#393a3d" font-weight="600" padding-bottom="8px">
+          Support client
+        </mj-text>
+        <mj-text font-size="16px" line-height="20px" color="#393a3d" font-weight="400">
+          Cliquez sur <a href="https://app.qbo.intuit.com/app/qboHelp" style="color: #0075cd;">le bouton Aide</a> depuis votre compte QuickBooks pour contacter notre équipe.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- END CONTENT SECONDARY SECTION 3 // LINE 2 -->
+    <!-- START CONTENT SECONDARY SECTION 3 // LINE 3 -->
+    <mj-section padding="40px 0 0 0">
+      <mj-column width="20%" vertical-align="middle">
+        <mj-image src="https://img03.en25.com/EloquaImages/clients/IntuitSBG/%7B85cb9992-a9a4-4e2e-8ab7-66f6311a0ad4%7D_Laptop.png" width="42px" css-class="pr_20 center"/>
+      </mj-column>
+      <mj-column width="80%" vertical-align="middle">
+        <mj-text font-size="16px" line-height="20px" color="#393a3d" font-weight="600" padding-bottom="8px">
+          Webinaire découverte
+        </mj-text>
+         <mj-text font-size="16px" line-height="20px" color="#393a3d" font-weight="400">
+          Retrouvez les bases de QuickBooks dans notre <a href="https://register.gotowebinar.com/rt/545054716298803725?source=ftu" style="color: #0075cd;">webinaire "Bien démarrer avec QuickBooks"</a>.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- END CONTENT SECONDARY SECTION 3 // LINE 3 -->
+  </mj-wrapper>
+  <!-- END SECONDARY SECTION 3 -->
+
+  <mj-include path="global/footers/classic.mjml" />
+  
+</mj-body>
