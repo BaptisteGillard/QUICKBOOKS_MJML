@@ -27,18 +27,24 @@
         <mj-image src="https://img03.en25.com/EloquaImages/clients/IntuitSBG/%7Bfb635545-1ff9-4472-bf4c-b22db9183ab0%7D_divider-green.png" align="center" padding-top="40px" padding-bottom="40px" width="264px"/>
       </mj-column>
     </mj-section>
+    
+
     <mj-section padding="0px 0 0 0">
-    <mj-group>
-      <mj-column padding-right="10px">
+      <mj-column>
         <mj-text font-size="16px" line-height="20px" color="#393a3d" font-weight="400">
           Téléchargez l'application pour créer et envoyer des factures, suivre votre trésorerie ou encore prendre en photo vos reçus.
         </mj-text>
-        <mj-image width="150px" align="left" padding-top="20px" href="https://apps.apple.com/fr/app/quickbooks/id584606479" src="https://img03.en25.com/EloquaImages/clients/IntuitSBG/{809c62c6-15de-4a4f-93f9-5a5338aa53d8}_logo-app-store-fr.png" />
-        <mj-image width="150px" align="left" padding-top="8px" padding-bottom="20px" href="https://play.google.com/store/apps/details?id=com.intuit.quickbooks" src="https://img03.en25.com/EloquaImages/clients/IntuitSBG/{52d1533c-fe94-4b5b-8947-e86d7d9981f8}_logo-google-play-fr.png" />
       </mj-column>
-      <mj-column padding-left="10px" vertical-align="bottom">
-        <mj-image src="https://img03.en25.com/EloquaImages/clients/IntuitSBG/%7B4bafd541-647b-4a29-b6d3-4e85a2651c07%7D_img-phone-fr.gif" align="left"/>
+    </mj-section>
+     <mj-section padding="20px 0 40px 0">
+     <mj-group>
+      <mj-column>
+        <mj-image width="170px" align="right" padding-right="10px" src="https://img03.en25.com/EloquaImages/clients/IntuitSBG/{809c62c6-15de-4a4f-93f9-5a5338aa53d8}_logo-app-store-fr.png" href="https://apps.apple.com/fr/app/quickbooks/id584606479" />
       </mj-column>
+      <mj-column>
+        <mj-image width="170px" align="left" padding-left="10px" src="https://img03.en25.com/EloquaImages/clients/IntuitSBG/{52d1533c-fe94-4b5b-8947-e86d7d9981f8}_logo-google-play-fr.png" href="https://play.google.com/store/apps/details?id=com.intuit.quickbooks" />
+      </mj-column>
+      
       </mj-group>
     </mj-section>
    

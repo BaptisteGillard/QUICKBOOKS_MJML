@@ -33,10 +33,9 @@
          <mj-button background-color="#2ca01c" href="https://play.google.com/store/apps/details?id=com.intuit.quickbooks" inner-padding="9px 24px" border-radius="18px" align="center" height="36px" padding="0" padding-top="20px" font-size="16px" font-weight="600">
           Télécharger sur Android
         </mj-button>
-        <mj-image src="http://images.eq.intuit.com/EloquaImages/clients/IntuitSBG/%7B70a2003a-ee4e-422e-afa4-79f6fc2000a9%7D_D%C3%A9penses_Express.gif" href="https://www.youtube.com/watch?v=_EW45lG1Xh0" align="center" padding-top="40px" width="350px"/>
+        <mj-image src="https://zupimages.net/up/21/26/hx1y.gif" href="https://www.youtube.com/watch?v=_EW45lG1Xh0" align="center" padding-top="40px" width="350px"/>
       </mj-column>
     </mj-section>
-   
     
   </mj-wrapper>
  <mj-section>

@@ -1,0 +1,201 @@
+<mjml owa="desktop">
+<mj-head>
+  <mj-title>Payez vos factures d'achats sans frais</mj-title>
+  <mj-preview>déjà inclus dans votre abonnement 🥳</mj-preview>
+  <!-- <mj-breakpoint width="580px" />   -->
+  <mj-attributes>
+    <mj-section padding="0"/>
+    <mj-column padding="0"/>
+    <mj-text padding="0"/>  
+    <mj-image padding="0"/>
+    <mj-all font-family="Avenir, Arial, sans-serif" />
+  </mj-attributes>
+  <mj-include path="global/style.mjml" />
+  <mj-include path="global/style_inline.mjml" />
+</mj-head>
+<mj-body width="600px" background-color="#ECEEF1"> 
+  <mj-include path="global/headers/se_connecter.mjml" />
+  
+  <mj-wrapper background-color="#fff" padding="0 20px 0px 20px" border-radius="10px" css-class="container_wrap3">
+    <!-- START PRIMARY SECTION -->
+    <mj-section padding="40px 0">
+      <mj-column vertical-align="middle" >
+        <mj-text font-size="36px" line-height="40px" font-weight="bold" color="#393a3d" padding-bottom="20px" align="center">
+          Payez vos factures directement dans QuickBooks
+        </mj-text>
+        <mj-text font-size="19px" line-height="24px" color="#393a3d" padding-bottom="20px" align="center">
+        Avec notre intégration Libeo Pay, plus besoin de vous connecter à votre banque pour payer vos factures fournisseurs.
+        </mj-text>
+        <mj-button background-color="#2ca01c" href="https://qbo.intuit.com/qbo35/login?pagereq=expenses" inner-padding="9px 24px" border-radius="18px" align="center" height="36px" padding="0" font-size="16px" font-weight="600">
+          Payer une facture
+        </mj-button>
+        <mj-image src="https://img03.en25.com/EloquaImages/clients/IntuitSBG/%7Bd38da4ef-9016-4887-b8f9-66250177bc6b%7D_GIF_QBKS_x_LB_%281%29.gif" align="center" padding-top="40px" />
+
+        
+      </mj-column>
+    </mj-section>
+     <!-- START DIVIDER -->
+    <mj-section>
+      <mj-column>
+        <mj-divider border-width="3px" border-style="solid" border-color="#babec5" padding="0" />
+      </mj-column>
+    </mj-section>
+    <!-- END DIVIDER -->
+    <mj-section padding="40px 0 ">
+      <mj-column>
+        <mj-text font-size="24px" line-height="28px" color="#393a3d" font-weight="600">
+          Comment ça marche ?
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0 0 40px 0 ">
+      <mj-column width="20%">
+        <mj-image src="https://img03.en25.com/EloquaImages/clients/IntuitSBG/%7B239b3ff8-7410-4c0f-bd2a-c130a1609b49%7D_icon-dollars.png" width="60px"  css-class="pr_20 center"/>
+      </mj-column>
+      <mj-column width="80%">
+        <mj-text font-size="16px" line-height="20px" color="#393a3d" font-weight="600" padding-bottom="8px">
+          1. Sélectionnez
+        </mj-text>
+        <mj-text font-size="16px" line-height="20px" color="#393a3d" font-weight="400">
+          Depuis l'onglet "Dépenses" sélectionnez une facture à payer et cliquez sur "Payer une facture fournisseur"
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0 0 40px 0 ">
+      <mj-column width="20%">
+        <mj-image src="https://img03.en25.com/EloquaImages/clients/IntuitSBG/%7B19ff2990-5259-4046-b2c6-e21f94fb0f11%7D_illo-utility-qbo-libeo.png" width="60px"  css-class="pr_20 center"/>
+      </mj-column>
+      <mj-column width="80%">
+        <mj-text font-size="16px" line-height="20px" color="#393a3d" font-weight="600" padding-bottom="8px">
+          2. Payez
+        </mj-text>
+        <mj-text font-size="16px" line-height="20px" color="#393a3d" font-weight="400">
+          Planifiez et déclenchez facilement le paiement, même sans l'IBAN de votre fournisseur
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0 0 40px 0 ">
+      <mj-column width="20%">
+        <mj-image src="https://img03.en25.com/EloquaImages/clients/IntuitSBG/%7Bfe2ed912-a33c-43b1-9410-0e2e29bf5eba%7D_icon-payment-faster.png" width="60px"  css-class="pr_20 center"/>
+      </mj-column>
+      <mj-column width="80%">
+        <mj-text font-size="16px" line-height="20px" color="#393a3d" font-weight="600" padding-bottom="8px">
+          3. Réconciliez
+        </mj-text>
+        <mj-text font-size="16px" line-height="20px" color="#393a3d" font-weight="400">
+          Retrouvez vos factures mises à jour et réconciliées automatiquement dans QuickBooks.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+<mj-section padding="0px 0 40px 0 ">
+      <mj-column>
+        <mj-text font-size="32px" line-height="35px" color="#2ca01c" font-weight="bold" align="center">
+          La fonctionnalité Libeo Pay est incluse dans votre abonnement
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0px 40px 20px 40px" css-class="pr_40">
+      <mj-column background-color="#f5f5f5" padding="50px 20px" border-radius="10px">
+        <mj-text font-size="16px" line-height="20px" color="#393a3d" font-weight="600" align="center">
+          Essentials
+        </mj-text>
+        <mj-text font-size="16px" line-height="35px" color="#393a3d" font-weight="400" align="center" padding-top="10px" padding-bottom="10px">
+          <span style="font-size:32px;line-height:35px;font-weight:bold">5 paiements</span> inclus/mois
+        </mj-text>
+        <mj-text font-size="16px" line-height="20px" color="#393a3d" font-weight="400" align="center">
+          puis 0,50€ par paiement supplémentaire.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0px 40px 40px 40px" css-class="pr_40">
+      <mj-column background-color="#f5f5f5" padding="50px 20px" border-radius="10px">
+        <mj-text font-size="16px" line-height="20px" color="#393a3d" font-weight="600" align="center">
+          Plus
+        </mj-text>
+        <mj-text font-size="16px" line-height="35px" color="#393a3d" font-weight="400" align="center" padding-top="10px" padding-bottom="10px">
+          <span style="font-size:32px;line-height:35px;font-weight:bold">15 paiements</span> inclus/mois
+        </mj-text>
+        <mj-text font-size="16px" line-height="20px" color="#393a3d" font-weight="400" align="center">
+          puis 0,40€ par paiement supplémentaire.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0 0 40px 0">
+      <mj-column>
+      <mj-button background-color="#2ca01c" href="https://qbo.intuit.com/qbo35/login?pagereq=expenses" inner-padding="9px 24px" border-radius="18px" align="center" height="36px" padding="0" font-size="16px" font-weight="600">
+          Payer une facture
+        </mj-button>
+      </mj-column>
+    </mj-section>
+   
+    
+  </mj-wrapper>
+ <mj-section>
+ <mj-column>
+  <mj-spacer height="20px" /> 
+  </mj-column>
+  </mj-section>
+<!-- START SECONDARY SECTION 3 -->
+  <mj-wrapper background-color="#fff" padding="40px 20px" border-radius="10px" css-class="container_wrap2">
+     <!-- START TITLE SECONDARY SECTION 3 -->
+    <mj-section padding="0px 0 0 0">
+      <mj-column>
+        <mj-text font-size="24px" line-height="28px" color="#393a3d" font-weight="600">
+          QuickBooks vous accompagne
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- END TITLE SECONDARY SECTION 3 -->
+   <!-- START CONTENT SECONDARY SECTION 3 // LINE 1 -->
+    <mj-section padding="40px 0 0 0">
+      <mj-column width="20%" vertical-align="middle">
+        <mj-image src="https://quickbooks.intuit.com/cmc-emails/template-examples/v3.0/SM-02_example-1.png" width="58px" css-class="pr_20 center"/>
+      </mj-column>
+      <mj-column width="80%" vertical-align="middle">
+        <mj-text font-size="16px" line-height="20px" color="#393a3d" font-weight="600" padding-bottom="8px">
+          Communauté
+        </mj-text>
+        <mj-text font-size="16px" line-height="20px" color="#393a3d" font-weight="400">
+          Consultez plus de <a href="https://quickbooks.intuit.com/learn-support/communaut%C3%A9-quickbooks-france/misc/03/communaute-fr" style="color: #0075cd;">200 articles et tutos vidéo</a>, profitez des conseils de l'équipe QuickBooks et d'autres utilisateurs comme vous.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- END CONTENT SECONDARY SECTION 3 // LINE 1 -->
+       <!-- START CONTENT SECONDARY SECTION 3 // LINE 2 -->
+    <mj-section padding="40px 0 0 0">
+      <mj-column width="20%" vertical-align="middle">
+        <mj-image src="https://quickbooks.intuit.com/cmc-emails/template-examples/v3.0/SM-02_example-3.png" width="42px" css-class="pr_20 center"/>
+      </mj-column>
+      <mj-column width="80%" vertical-align="middle">
+        <mj-text font-size="16px" line-height="20px" color="#393a3d" font-weight="600" padding-bottom="8px">
+          Support client
+        </mj-text>
+        <mj-text font-size="16px" line-height="20px" color="#393a3d" font-weight="400">
+          Cliquez sur <a href="https://app.qbo.intuit.com/app/qboHelp" style="color: #0075cd;">le bouton Aide</a> depuis votre compte QuickBooks pour contacter notre équipe.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- END CONTENT SECONDARY SECTION 3 // LINE 2 -->
+    <!-- START CONTENT SECONDARY SECTION 3 // LINE 3 -->
+    <mj-section padding="40px 0 0 0">
+      <mj-column width="20%" vertical-align="middle">
+        <mj-image src="https://img03.en25.com/EloquaImages/clients/IntuitSBG/%7B85cb9992-a9a4-4e2e-8ab7-66f6311a0ad4%7D_Laptop.png" width="42px" css-class="pr_20 center"/>
+      </mj-column>
+      <mj-column width="80%" vertical-align="middle">
+        <mj-text font-size="16px" line-height="20px" color="#393a3d" font-weight="600" padding-bottom="8px">
+          Webinaire découverte
+        </mj-text>
+         <mj-text font-size="16px" line-height="20px" color="#393a3d" font-weight="400">
+          Retrouvez les bases de QuickBooks dans notre <a href="https://register.gotowebinar.com/rt/545054716298803725?source=ftu" style="color: #0075cd;">webinaire "Bien démarrer avec QuickBooks"</a>.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- END CONTENT SECONDARY SECTION 3 // LINE 3 -->
+  </mj-wrapper>
+  <!-- END SECONDARY SECTION 3 -->
+
+  <mj-include path="global/footers/classic.mjml" />
+  
+</mj-body>
