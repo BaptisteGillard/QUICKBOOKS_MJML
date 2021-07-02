@@ -44,7 +44,7 @@
     </mj-section>
      <mj-section padding="0px 20px 40px 20px" background-color="#f6f7f9" border-radius="0">
       <mj-column width="18%" vertical-align="middle">
-        <mj-image src="https://img03.en25.com/EloquaImages/clients/IntuitSBG/%7Be7d7f59a-ef37-4192-ba0d-7acf235a9939%7D_icon-calculator.png" width="40px"  css-class="center"/>
+        <mj-image src="https://img03.en25.com/EloquaImages/clients/IntuitSBG/%7Be7d7f59a-ef37-4192-ba0d-7acf235a9939%7D_icon-calculator.png" width="32px"  css-class="center"/>
       </mj-column>
       <mj-column width="5%" padding-right="20px" css-class="hide_on_mobile" vertical-align="middle">
       <mj-image width="4px" src="https://img03.en25.com/EloquaImages/clients/IntuitSBG/{8d50874a-b020-406a-b143-dace66c02804}_divider-vert-lg.png" />
